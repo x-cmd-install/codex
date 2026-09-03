@@ -1,0 +1,70 @@
+about:
+  description: Lightweight coding agent that runs in your terminal
+  license: Apache-2.0
+  homepage: 
+  head: 498d40b
+  archived: false
+  latestVersion: rust-v0.153.0
+  collectedAt: 2026-09-03T04:36:22Z
+timeline:
+  created: 2025-04-13
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 121030
+  watcher: 619
+  fork: 18543
+  release: 1051
+  contributor: 5964
+  pullRequest: 5351
+  issue: 25579
+language:
+  Rust: 56882243
+  Python: 1557016
+  Starlark: 118408
+  TypeScript: 100320
+  Shell: 67925
+  PowerShell: 56162
+  JavaScript: 32423
+  HTML: 26288
+  Jupyter Notebook: 20702
+  CSS: 20134
+  Smarty: 7627
+  Just: 7521
+  Nix: 4349
+  Dockerfile: 883
+  C: 52
+totalLine: 58902053
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 90
+    mergedPR: 277
+    openPR: 0
+    closedIssue: 395
+    openIssue: 3573
+    commit: 1197
+  last90d:
+    since: 2026-06-05
+    release: 100
+    mergedPR: 277
+    openPR: 2
+    closedIssue: 1702
+    openIssue: 9734
+    commit: 2986
+  last180d:
+    since: 2026-03-07
+    release: 100
+    mergedPR: 277
+    openPR: 4
+    closedIssue: 5186
+    openIssue: 14025
+    commit: 6115
+  last360d:
+    since: 2025-09-08
+    release: 100
+    mergedPR: 756
+    openPR: 4
+    closedIssue: 9467
+    openIssue: 14774
+    commit: 9575
