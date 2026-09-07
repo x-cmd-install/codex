@@ -2,29 +2,29 @@ about:
   description: "Lightweight coding agent that runs in your terminal"
   license: Apache-2.0
   homepage: 
-  head: 694b631
+  head: 769a6a5
   archived: false
-  latestVersion: "rust-v0.153.4"
-  collectedAt: 2026-09-07T05:32:50Z
+  latestVersion: "rust-v0.154.0-alpha.6"
+  collectedAt: 2026-09-07T18:57:48Z
 timeline:
   created: 2025-04-13
   lastCommit: 2026-09-07
-  lastRelease: 2026-09-04
+  lastRelease: 2026-09-07
 popularity:
-  star: 122040
-  watcher: 625
-  fork: 18740
-  release: 1058
+  star: 122221
+  watcher: 626
+  fork: 18774
+  release: 1059
   contributor: 630
-  pullRequest: 15818
-  issue: 26335
+  pullRequest: 15854
+  issue: 26488
 language:
-  Rust: 58313045
-  Python: 1557952
-  Starlark: 124975
+  Rust: 58568024
+  Python: 1569815
+  Starlark: 126150
   TypeScript: 100320
-  Shell: 68280
-  PowerShell: 56162
+  Shell: 70655
+  PowerShell: 59557
   JavaScript: 32423
   HTML: 26288
   Jupyter Notebook: 20702
@@ -35,87 +35,87 @@ language:
   Dockerfile: 883
   Batchfile: 389
   C: 52
-totalBytes: 60341014
+totalBytes: 60614801
 recent:
   last30d:
     since: 2026-08-08
-    release: 84
-    mergedPR: 428
+    release: 85
+    mergedPR: 464
     openPR: 0
-    closedIssue: 385
-    openIssue: 3836
-    commit: 1075
+    closedIssue: 397
+    openIssue: 3977
+    commit: 1111
   last60d:
     since: 2026-07-09
     release: 100
-    mergedPR: 428
+    mergedPR: 464
     openPR: 0
-    closedIssue: 1102
-    openIssue: 7713
-    commit: 2117
+    closedIssue: 1114
+    openIssue: 7854
+    commit: 2153
   last90d:
     since: 2026-06-09
     release: 100
-    mergedPR: 428
+    mergedPR: 464
     openPR: 2
-    closedIssue: 1684
-    openIssue: 10135
-    commit: 2892
+    closedIssue: 1697
+    openIssue: 10275
+    commit: 2928
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 428
+    mergedPR: 464
     openPR: 4
-    closedIssue: 5056
-    openIssue: 14598
-    commit: 5987
+    closedIssue: 5071
+    openIssue: 14736
+    commit: 6023
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 837
+    mergedPR: 873
     openPR: 4
-    closedIssue: 9468
-    openIssue: 15446
-    commit: 9608
+    closedIssue: 9483
+    openIssue: 15584
+    commit: 9644
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 2035
+    mergedPR: 2071
     openPR: 4
-    closedIssue: 10853
-    openIssue: 15482
-    commit: 10348
+    closedIssue: 10868
+    openIssue: 15620
+    commit: 10384
 total:
-  release: 1058
-  mergedPR: 10467
+  release: 1059
+  mergedPR: 10503
   openPR: 170
-  closedIssue: 10853
-  openIssue: 15482
-  commit: 10348
+  closedIssue: 10868
+  openIssue: 15620
+  commit: 10384
 ---
 path: /home/runner/.x-repo/github.com/openai/codex
-collectedAt: 2026-09-07T05:34:08Z
+collectedAt: 2026-09-07T18:58:55Z
 loc:
   Rust:
-    code: 1472550
-    comments: 12162
-    blanks: 120195
-    files: 3785
+    code: 1478685
+    comments: 12258
+    blanks: 120504
+    files: 3828
   Json:
     code: 157471
     comments: 0
     blanks: 0
     files: 349
   Python:
-    code: 44666
+    code: 44939
     comments: 327
-    blanks: 6771
-    files: 160
+    blanks: 6807
+    files: 161
   Toml:
-    code: 5631
+    code: 5653
     comments: 277
-    blanks: 719
-    files: 165
+    blanks: 723
+    files: 166
   TypeScript:
     code: 5609
     comments: 3741
@@ -132,12 +132,12 @@ loc:
     blanks: 956
     files: 6
   Sh:
-    code: 2662
+    code: 2716
     comments: 237
-    blanks: 439
+    blanks: 433
     files: 25
   PowerShell:
-    code: 1334
+    code: 1391
     comments: 78
     blanks: 204
     files: 3
@@ -233,19 +233,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 10722
-    blanks: 3612
-    files: 155
+    comments: 9381
+    blanks: 3088
+    files: 154
   Text:
     code: 0
     comments: 6596
     blanks: 698
     files: 447
 total:
-  code: 1707563
-  comments: 59108
-  blanks: 139722
-  files: 5950
+  code: 1712961
+  comments: 57979
+  blanks: 139527
+  files: 5994
 ---
 date: "2026-08-24"
 repo:
@@ -433,7 +433,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:34:11+00:00
+  collectedAt: 2026-09-07T18:58:56+00:00
   platform:
     darwin/arm64:
       name:  codex-code-mode-host-aarch64-apple-darwin.tar.gz
