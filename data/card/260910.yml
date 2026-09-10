@@ -2,29 +2,29 @@ about:
   description: "Lightweight coding agent that runs in your terminal"
   license: Apache-2.0
   homepage: 
-  head: ddea03a
+  head: 818f1cc
   archived: false
-  latestVersion: "rust-v0.154.0"
+  latestVersion: "rust-v0.155.0-alpha.1"
   latestRelease: "rust-v0.154.0"
-  latestPrerelease: "rust-v0.154.0-alpha.6.1"
-  collectedAt: 2026-09-10T05:40:50Z
+  latestPrerelease: "rust-v0.155.0-alpha.1"
+  collectedAt: 2026-09-10T17:30:34Z
 timeline:
   created: 2025-04-13
   lastCommit: 2026-09-10
-  lastVersion: 2026-09-09
+  lastVersion: 2026-09-10
   lastRelease: 2026-09-09
-  lastPrerelease: 2026-09-09
+  lastPrerelease: 2026-09-10
 popularity:
-  star: 122925
-  watcher: 628
-  fork: 18910
-  release: 1065
+  star: 123081
+  watcher: 627
+  fork: 18943
+  release: 1066
   contributor: 633
-  pullRequest: 16032
-  issue: 27158
+  pullRequest: 16053
+  issue: 27302
 language:
-  Rust: 61114421
-  Python: 1697972
+  Rust: 61395574
+  Python: 1702230
   Starlark: 126222
   TypeScript: 100320
   Shell: 64359
@@ -38,92 +38,92 @@ language:
   Nix: 4349
   Batchfile: 389
   C: 52
-totalBytes: 63282263
+totalBytes: 63567674
 recent:
   last30d:
     since: 2026-08-11
-    release: 87
-    mergedPR: 643
+    release: 88
+    mergedPR: 664
     openPR: 0
-    closedIssue: 463
-    openIssue: 4246
-    commit: 1287
+    closedIssue: 476
+    openIssue: 4376
+    commit: 1306
   last60d:
     since: 2026-07-12
     release: 100
-    mergedPR: 643
+    mergedPR: 664
     openPR: 1
-    closedIssue: 1095
-    openIssue: 7917
-    commit: 2329
+    closedIssue: 1109
+    openIssue: 8046
+    commit: 2348
   last90d:
     since: 2026-06-12
     release: 100
-    mergedPR: 643
+    mergedPR: 664
     openPR: 3
-    closedIssue: 1710
-    openIssue: 10531
-    commit: 3104
+    closedIssue: 1725
+    openIssue: 10660
+    commit: 3123
   last180d:
     since: 2026-03-14
     release: 100
-    mergedPR: 643
+    mergedPR: 664
     openPR: 6
-    closedIssue: 5061
-    openIssue: 15244
-    commit: 6199
+    closedIssue: 5076
+    openIssue: 15373
+    commit: 6218
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 999
+    mergedPR: 1020
     openPR: 6
-    closedIssue: 9531
-    openIssue: 16146
-    commit: 9820
+    closedIssue: 9547
+    openIssue: 16274
+    commit: 9839
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 2250
+    mergedPR: 2271
     openPR: 6
-    closedIssue: 10972
-    openIssue: 16186
-    commit: 10563
+    closedIssue: 10988
+    openIssue: 16314
+    commit: 10584
 total:
-  release: 1065
-  mergedPR: 10682
+  release: 1066
+  mergedPR: 10703
   openPR: 170
-  closedIssue: 10972
-  openIssue: 16186
-  commit: 10563
+  closedIssue: 10988
+  openIssue: 16314
+  commit: 10584
 ---
 path: /home/runner/.x-repo/github.com/openai/codex
-collectedAt: 2026-09-10T05:42:06Z
+collectedAt: 2026-09-10T17:32:06Z
 loc:
   Rust:
-    code: 1541013
-    comments: 12902
-    blanks: 123033
-    files: 4026
+    code: 1547689
+    comments: 13035
+    blanks: 123282
+    files: 4042
   Json:
-    code: 157403
+    code: 158428
     comments: 0
     blanks: 0
-    files: 349
+    files: 356
   Python:
-    code: 48221
+    code: 48338
     comments: 334
-    blanks: 7232
+    blanks: 7260
     files: 167
   Toml:
-    code: 5726
+    code: 5736
     comments: 277
-    blanks: 729
+    blanks: 730
     files: 167
   TypeScript:
-    code: 5610
-    comments: 3746
-    blanks: 1813
-    files: 735
+    code: 5641
+    comments: 3796
+    blanks: 1833
+    files: 745
   Yaml:
     code: 4988
     comments: 1
@@ -236,8 +236,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 9488
-    blanks: 3086
+    comments: 9499
+    blanks: 3092
     files: 160
   Text:
     code: 0
@@ -245,10 +245,10 @@ loc:
     blanks: 882
     files: 453
 total:
-  code: 1778603
-  comments: 60367
-  blanks: 142684
-  files: 6213
+  code: 1786505
+  comments: 60650
+  blanks: 142990
+  files: 6246
 ---
 date: "2026-09-07"
 repo:
