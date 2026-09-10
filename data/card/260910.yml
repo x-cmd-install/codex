@@ -2,35 +2,35 @@ about:
   description: "Lightweight coding agent that runs in your terminal"
   license: Apache-2.0
   homepage: 
-  head: 818f1cc
+  head: 935ac77
   archived: false
-  latestVersion: "rust-v0.155.0-alpha.1"
-  latestRelease: "rust-v0.154.0"
-  latestPrerelease: "rust-v0.155.0-alpha.1"
-  collectedAt: 2026-09-10T17:30:34Z
+  latestVersion: "voice-cygwin-108b38cf67cbb731"
+  latestRelease: "python-v0.154.0"
+  latestPrerelease: "voice-cygwin-108b38cf67cbb731"
+  collectedAt: 2026-09-10T23:49:48Z
 timeline:
   created: 2025-04-13
   lastCommit: 2026-09-10
   lastVersion: 2026-09-10
-  lastRelease: 2026-09-09
+  lastRelease: 2026-09-10
   lastPrerelease: 2026-09-10
 popularity:
-  star: 123081
+  star: 123103
   watcher: 627
-  fork: 18943
-  release: 1066
-  contributor: 633
-  pullRequest: 16053
-  issue: 27302
+  fork: 18947
+  release: 1069
+  contributor: 634
+  pullRequest: 16082
+  issue: 27354
 language:
-  Rust: 61395574
-  Python: 1702230
+  Rust: 61708297
+  Python: 1702671
   Starlark: 126222
   TypeScript: 100320
   Shell: 64359
   PowerShell: 59557
   JavaScript: 32423
-  HTML: 26288
+  HTML: 26838
   Jupyter Notebook: 20702
   CSS: 20134
   Smarty: 7627
@@ -38,90 +38,90 @@ language:
   Nix: 4349
   Batchfile: 389
   C: 52
-totalBytes: 63567674
+totalBytes: 63881388
 recent:
   last30d:
     since: 2026-08-11
-    release: 88
-    mergedPR: 664
+    release: 91
+    mergedPR: 693
     openPR: 0
-    closedIssue: 476
-    openIssue: 4376
-    commit: 1306
+    closedIssue: 489
+    openIssue: 4415
+    commit: 1335
   last60d:
     since: 2026-07-12
     release: 100
-    mergedPR: 664
+    mergedPR: 693
     openPR: 1
-    closedIssue: 1109
-    openIssue: 8046
-    commit: 2348
+    closedIssue: 1122
+    openIssue: 8085
+    commit: 2377
   last90d:
     since: 2026-06-12
     release: 100
-    mergedPR: 664
+    mergedPR: 693
     openPR: 3
-    closedIssue: 1725
-    openIssue: 10660
-    commit: 3123
+    closedIssue: 1738
+    openIssue: 10699
+    commit: 3152
   last180d:
     since: 2026-03-14
     release: 100
-    mergedPR: 664
+    mergedPR: 693
     openPR: 6
-    closedIssue: 5076
-    openIssue: 15373
-    commit: 6218
+    closedIssue: 5089
+    openIssue: 15412
+    commit: 6247
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 1020
+    mergedPR: 1049
     openPR: 6
-    closedIssue: 9547
-    openIssue: 16274
-    commit: 9839
+    closedIssue: 9560
+    openIssue: 16313
+    commit: 9868
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 2271
+    mergedPR: 2300
     openPR: 6
-    closedIssue: 10988
-    openIssue: 16314
-    commit: 10584
+    closedIssue: 11001
+    openIssue: 16353
+    commit: 10613
 total:
-  release: 1066
-  mergedPR: 10703
+  release: 1069
+  mergedPR: 10732
   openPR: 170
-  closedIssue: 10988
-  openIssue: 16314
-  commit: 10584
+  closedIssue: 11001
+  openIssue: 16353
+  commit: 10613
 ---
 path: /home/runner/.x-repo/github.com/openai/codex
-collectedAt: 2026-09-10T17:32:06Z
+collectedAt: 2026-09-10T23:51:34Z
 loc:
   Rust:
-    code: 1547689
-    comments: 13035
-    blanks: 123282
-    files: 4042
+    code: 1555432
+    comments: 13119
+    blanks: 123586
+    files: 4070
   Json:
-    code: 158428
+    code: 158473
     comments: 0
     blanks: 0
     files: 356
   Python:
-    code: 48338
+    code: 48352
     comments: 334
     blanks: 7260
     files: 167
   Toml:
-    code: 5736
-    comments: 277
-    blanks: 730
+    code: 5744
+    comments: 278
+    blanks: 732
     files: 167
   TypeScript:
-    code: 5641
-    comments: 3796
+    code: 5644
+    comments: 3800
     blanks: 1833
     files: 745
   Yaml:
@@ -236,8 +236,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 9499
-    blanks: 3092
+    comments: 9553
+    blanks: 3099
     files: 160
   Text:
     code: 0
@@ -245,10 +245,10 @@ loc:
     blanks: 882
     files: 453
 total:
-  code: 1786505
-  comments: 60650
-  blanks: 142990
-  files: 6246
+  code: 1794330
+  comments: 60902
+  blanks: 143303
+  files: 6274
 ---
 date: "2026-09-07"
 repo:
