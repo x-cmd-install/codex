@@ -14,15 +14,15 @@ x install codex
 
 ## Code insight
 
-Total: **2,019,213** lines of code across **6432** files in the top 5 languages.
+Total: **2,031,544** lines of code across **6477** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,780,550 | 16,400 | 132,635 | 4978 |
-| Json | 159,966 | 0 | 0 | 359 |
-| Python | 47,993 | 337 | 7,163 | 163 |
-| Toml | 6,058 | 283 | 764 | 174 |
-| TypeScript | 5,709 | 3,913 | 1,859 | 758 |
+| Rust | 1,792,236 | 16,578 | 133,063 | 5019 |
+| Json | 160,507 | 0 | 0 | 360 |
+| Python | 48,053 | 337 | 7,173 | 163 |
+| Toml | 6,093 | 284 | 768 | 175 |
+| TypeScript | 5,718 | 3,924 | 1,863 | 760 |
 
 ## OpenSSF Scorecard
 
@@ -41,209 +41,209 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `rust-v0.160.0-alpha.6` (2026-09-28)
-- **Last commit**: 2026-09-29
+- **Latest**: `rust-v0.161.0-alpha.3` (2026-09-29)
+- **Last commit**: 2026-09-30
 - **Assets in release**: 176
 
 ## Popularity
 
-- **Stars**: 127,025 · **Forks**: 19,844 · **Open issues**: 30,805 · **Contributors**: 658
+- **Stars**: 127,271 · **Forks**: 19,881 · **Open issues**: 31,058 · **Contributors**: 659
 
 ## Totals (cumulative)
 
-- **Releases**: 1169 · **Merged PRs**: 11686 · **Open PRs**: 166 · **Closed issues**: 11547 · **Open issues**: 19258 · **Commits**: 11566
+- **Releases**: 1176 · **Merged PRs**: 11752 · **Open PRs**: 166 · **Closed issues**: 11582 · **Open issues**: 19476 · **Commits**: 11628
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 100 | 1555 | 0 | 678 | 5061 | 1285 |
-| last60d | 2026-07-31 | 100 | 1647 | 0 | 1147 | 8519 | 2574 |
-| 90d | 2026-07-01 | 100 | 1647 | 3 | 1896 | 12087 | 3557 |
-| last180d | 2026-04-02 | 100 | 1647 | 4 | 4976 | 17929 | 6535 |
-| 360d | 2025-10-04 | 100 | 1733 | 4 | 9599 | 19200 | 10472 |
-| last720d | 2024-10-09 | 100 | 3254 | 4 | 11547 | 19258 | 11566 |
+| 30d | 2026-08-31 | 100 | 1577 | 0 | 696 | 5145 | 1314 |
+| last60d | 2026-08-01 | 100 | 1713 | 0 | 1164 | 8637 | 2603 |
+| 90d | 2026-07-02 | 100 | 1713 | 3 | 1923 | 12244 | 3586 |
+| last180d | 2026-04-03 | 100 | 1713 | 4 | 4970 | 18124 | 6564 |
+| 360d | 2025-10-05 | 100 | 1786 | 4 | 9616 | 19416 | 10501 |
+| last720d | 2024-10-10 | 100 | 3320 | 4 | 11582 | 19476 | 11628 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [argument-comment-lint](https://github.com/openai/codex/releases/download/rust-v0.158.0/argument-comment-lint) | 2.6 KiB | `other` |
-| [argument-comment-lint-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/argument-comment-lint-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
-| [argument-comment-lint-aarch64-unknown-linux-gnu.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/argument-comment-lint-aarch64-unknown-linux-gnu.tar.gz) | 3.6 MiB | `native/linux/arm64/glibc` |
-| [argument-comment-lint-x86_64-pc-windows-msvc.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/argument-comment-lint-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
-| [argument-comment-lint-x86_64-unknown-linux-gnu.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/argument-comment-lint-x86_64-unknown-linux-gnu.tar.gz) | 3.7 MiB | `native/linux/x64/glibc` |
-| [bwrap](https://github.com/openai/codex/releases/download/rust-v0.158.0/bwrap) | 1.2 KiB | `other` |
-| [bwrap-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/bwrap-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
-| [bwrap-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/bwrap-aarch64-unknown-linux-musl.tar.gz) | 248.9 KiB | `native/linux/arm64/musl` |
-| [bwrap-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/bwrap-aarch64-unknown-linux-musl.zst) | 225.8 KiB | `native/linux/arm64/musl` |
-| [bwrap-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/bwrap-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
-| [bwrap-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/bwrap-x86_64-unknown-linux-musl.tar.gz) | 255.4 KiB | `native/linux/x64/musl` |
-| [bwrap-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/bwrap-x86_64-unknown-linux-musl.zst) | 232.1 KiB | `native/linux/x64/musl` |
-| [codex](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex) | 3.6 KiB | `other` |
-| [codex-aarch64-apple-darwin.dmg](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-apple-darwin.dmg) | 163.0 MiB | `native/darwin/arm64` |
-| [codex-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-apple-darwin.tar.gz) | 90.7 MiB | `native/darwin/arm64` |
-| [codex-aarch64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-apple-darwin.zst) | 64.7 MiB | `native/darwin/arm64` |
-| [codex-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-pc-windows-msvc.exe) | 260.9 MiB | `native/win/arm64` |
-| [codex-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-pc-windows-msvc.exe.tar.gz) | 94.6 MiB | `native/win/arm64` |
-| [codex-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-pc-windows-msvc.exe.zip) | 143.0 MiB | `native/win/arm64` |
-| [codex-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-pc-windows-msvc.exe.zst) | 70.1 MiB | `native/win/arm64` |
-| [codex-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
-| [codex-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-unknown-linux-musl.tar.gz) | 96.0 MiB | `native/linux/arm64/musl` |
-| [codex-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-aarch64-unknown-linux-musl.zst) | 69.2 MiB | `native/linux/arm64/musl` |
-| [codex-app-server](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server) | 3.8 KiB | `other` |
-| [codex-app-server-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-aarch64-apple-darwin.tar.gz) | 69.6 MiB | `native/darwin/arm64` |
-| [codex-app-server-aarch64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-aarch64-apple-darwin.zst) | 48.8 MiB | `native/darwin/arm64` |
-| [codex-app-server-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-aarch64-pc-windows-msvc.exe) | 199.2 MiB | `native/win/arm64` |
-| [codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz) | 72.6 MiB | `native/win/arm64` |
-| [codex-app-server-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-aarch64-pc-windows-msvc.exe.zip) | 70.7 MiB | `native/win/arm64` |
-| [codex-app-server-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-aarch64-pc-windows-msvc.exe.zst) | 53.1 MiB | `native/win/arm64` |
-| [codex-app-server-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
-| [codex-app-server-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-aarch64-unknown-linux-musl.tar.gz) | 74.4 MiB | `native/linux/arm64/musl` |
-| [codex-app-server-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-aarch64-unknown-linux-musl.zst) | 53.0 MiB | `native/linux/arm64/musl` |
-| [codex-app-server-package-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-aarch64-apple-darwin.tar.gz) | 94.3 MiB | `native/darwin/arm64` |
-| [codex-app-server-package-aarch64-apple-darwin.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-aarch64-apple-darwin.tar.zst) | 67.1 MiB | `native/darwin/arm64` |
-| [codex-app-server-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-aarch64-pc-windows-msvc.tar.gz) | 109.1 MiB | `native/win/arm64` |
-| [codex-app-server-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-aarch64-pc-windows-msvc.tar.zst) | 80.7 MiB | `native/win/arm64` |
-| [codex-app-server-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-aarch64-unknown-linux-musl.tar.gz) | 101.4 MiB | `native/linux/arm64/musl` |
-| [codex-app-server-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-aarch64-unknown-linux-musl.tar.zst) | 73.6 MiB | `native/linux/arm64/musl` |
-| [codex-app-server-package-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-x86_64-apple-darwin.tar.gz) | 102.4 MiB | `native/darwin/x64` |
-| [codex-app-server-package-x86_64-apple-darwin.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-x86_64-apple-darwin.tar.zst) | 73.7 MiB | `native/darwin/x64` |
-| [codex-app-server-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-x86_64-pc-windows-msvc.tar.gz) | 117.6 MiB | `native/win/x64` |
-| [codex-app-server-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-x86_64-pc-windows-msvc.tar.zst) | 87.1 MiB | `native/win/x64` |
-| [codex-app-server-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-x86_64-unknown-linux-musl.tar.gz) | 108.8 MiB | `native/linux/x64/musl` |
-| [codex-app-server-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-package-x86_64-unknown-linux-musl.tar.zst) | 78.1 MiB | `native/linux/x64/musl` |
-| [codex-app-server-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-x86_64-apple-darwin.tar.gz) | 75.8 MiB | `native/darwin/x64` |
-| [codex-app-server-x86_64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-x86_64-apple-darwin.zst) | 53.8 MiB | `native/darwin/x64` |
-| [codex-app-server-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-x86_64-pc-windows-msvc.exe) | 236.8 MiB | `native/win/x64` |
-| [codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz) | 79.3 MiB | `native/win/x64` |
-| [codex-app-server-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-x86_64-pc-windows-msvc.exe.zip) | 76.7 MiB | `native/win/x64` |
-| [codex-app-server-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-x86_64-pc-windows-msvc.exe.zst) | 57.7 MiB | `native/win/x64` |
-| [codex-app-server-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
-| [codex-app-server-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-x86_64-unknown-linux-musl.tar.gz) | 80.0 MiB | `native/linux/x64/musl` |
-| [codex-app-server-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-app-server-x86_64-unknown-linux-musl.zst) | 56.3 MiB | `native/linux/x64/musl` |
-| [codex-code-mode-host-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-aarch64-apple-darwin.tar.gz) | 22.7 MiB | `native/darwin/arm64` |
-| [codex-code-mode-host-aarch64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-aarch64-apple-darwin.zst) | 16.7 MiB | `native/darwin/arm64` |
-| [codex-code-mode-host-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-aarch64-pc-windows-msvc.exe) | 66.5 MiB | `native/win/arm64` |
-| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-aarch64-pc-windows-msvc.exe.tar.gz) | 26.4 MiB | `native/win/arm64` |
-| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zip) | 25.6 MiB | `native/win/arm64` |
-| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zst) | 20.2 MiB | `native/win/arm64` |
-| [codex-code-mode-host-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
-| [codex-code-mode-host-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-aarch64-unknown-linux-musl.tar.gz) | 24.8 MiB | `native/linux/arm64/musl` |
-| [codex-code-mode-host-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-aarch64-unknown-linux-musl.zst) | 18.7 MiB | `native/linux/arm64/musl` |
-| [codex-code-mode-host-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-x86_64-apple-darwin.tar.gz) | 24.5 MiB | `native/darwin/x64` |
-| [codex-code-mode-host-x86_64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-x86_64-apple-darwin.zst) | 18.2 MiB | `native/darwin/x64` |
-| [codex-code-mode-host-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-x86_64-pc-windows-msvc.exe) | 71.2 MiB | `native/win/x64` |
-| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-x86_64-pc-windows-msvc.exe.tar.gz) | 27.6 MiB | `native/win/x64` |
-| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zip) | 26.8 MiB | `native/win/x64` |
-| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zst) | 21.3 MiB | `native/win/x64` |
-| [codex-code-mode-host-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
-| [codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz) | 26.2 MiB | `native/linux/x64/musl` |
-| [codex-code-mode-host-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-code-mode-host-x86_64-unknown-linux-musl.zst) | 19.6 MiB | `native/linux/x64/musl` |
-| [codex-command-runner](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-command-runner) | 1.3 KiB | `other` |
-| [codex-command-runner-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-command-runner-aarch64-pc-windows-msvc.exe) | 7.0 MiB | `native/win/arm64` |
-| [codex-command-runner-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-command-runner-aarch64-pc-windows-msvc.exe.tar.gz) | 2.6 MiB | `native/win/arm64` |
-| [codex-command-runner-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zip) | 2.5 MiB | `native/win/arm64` |
-| [codex-command-runner-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zst) | 2.0 MiB | `native/win/arm64` |
-| [codex-command-runner-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-command-runner-x86_64-pc-windows-msvc.exe) | 7.8 MiB | `native/win/x64` |
-| [codex-command-runner-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-command-runner-x86_64-pc-windows-msvc.exe.tar.gz) | 2.8 MiB | `native/win/x64` |
-| [codex-command-runner-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-command-runner-x86_64-pc-windows-msvc.exe.zip) | 2.7 MiB | `native/win/x64` |
-| [codex-command-runner-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-command-runner-x86_64-pc-windows-msvc.exe.zst) | 2.2 MiB | `native/win/x64` |
-| [codex-npm-0.158.0.tgz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-npm-0.158.0.tgz) | 4.8 KiB | `native/unknown` |
-| [codex-npm-darwin-arm64-0.158.0.tgz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-npm-darwin-arm64-0.158.0.tgz) | 127.3 MiB | `native/darwin/arm64` |
-| [codex-npm-darwin-x64-0.158.0.tgz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-npm-darwin-x64-0.158.0.tgz) | 135.8 MiB | `native/darwin/x64` |
-| [codex-npm-linux-arm64-0.158.0.tgz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-npm-linux-arm64-0.158.0.tgz) | 147.6 MiB | `native/linux/arm64` |
-| [codex-npm-linux-x64-0.158.0.tgz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-npm-linux-x64-0.158.0.tgz) | 154.6 MiB | `native/unknown` |
-| [codex-npm-win32-arm64-0.158.0.tgz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-npm-win32-arm64-0.158.0.tgz) | 144.2 MiB | `native/win/arm64` |
-| [codex-npm-win32-x64-0.158.0.tgz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-npm-win32-x64-0.158.0.tgz) | 154.1 MiB | `native/win/x64` |
-| [codex-package-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-aarch64-apple-darwin.tar.gz) | 123.2 MiB | `native/darwin/arm64` |
-| [codex-package-aarch64-apple-darwin.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-aarch64-apple-darwin.tar.zst) | 89.1 MiB | `native/darwin/arm64` |
-| [codex-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-aarch64-pc-windows-msvc.tar.gz) | 138.0 MiB | `native/win/arm64` |
-| [codex-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-aarch64-pc-windows-msvc.tar.zst) | 103.1 MiB | `native/win/arm64` |
-| [codex-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-aarch64-unknown-linux-musl.tar.gz) | 143.1 MiB | `native/linux/arm64/musl` |
-| [codex-package-aarch64-unknown-linux-musl.tar.gz.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-aarch64-unknown-linux-musl.tar.gz.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
-| [codex-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-aarch64-unknown-linux-musl.tar.zst) | 104.1 MiB | `native/linux/arm64/musl` |
-| [codex-package-aarch64-unknown-linux-musl.tar.zst.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-aarch64-unknown-linux-musl.tar.zst.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
-| [codex-package-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-x86_64-apple-darwin.tar.gz) | 133.8 MiB | `native/darwin/x64` |
-| [codex-package-x86_64-apple-darwin.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-x86_64-apple-darwin.tar.zst) | 97.6 MiB | `native/darwin/x64` |
-| [codex-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-x86_64-pc-windows-msvc.tar.gz) | 149.2 MiB | `native/win/x64` |
-| [codex-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-x86_64-pc-windows-msvc.tar.zst) | 111.3 MiB | `native/win/x64` |
-| [codex-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-x86_64-unknown-linux-musl.tar.gz) | 152.2 MiB | `native/linux/x64/musl` |
-| [codex-package-x86_64-unknown-linux-musl.tar.gz.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-x86_64-unknown-linux-musl.tar.gz.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
-| [codex-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-x86_64-unknown-linux-musl.tar.zst) | 109.7 MiB | `native/linux/x64/musl` |
-| [codex-package-x86_64-unknown-linux-musl.tar.zst.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package-x86_64-unknown-linux-musl.tar.zst.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
-| [codex-package_SHA256SUMS](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-package_SHA256SUMS) | 1.6 KiB | `other` |
-| [codex-provisioned](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-provisioned) | 1.3 KiB | `other` |
-| [codex-provisioned-package-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-provisioned-package-aarch64-apple-darwin.tar.gz) | 123.2 MiB | `native/darwin/arm64` |
-| [codex-provisioned-package-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-provisioned-package-x86_64-apple-darwin.tar.gz) | 133.8 MiB | `native/darwin/x64` |
-| [codex-responses-api-proxy](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy) | 3.8 KiB | `other` |
-| [codex-responses-api-proxy-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-aarch64-apple-darwin.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
-| [codex-responses-api-proxy-aarch64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-aarch64-apple-darwin.zst) | 1.8 MiB | `native/darwin/arm64` |
-| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe) | 5.0 MiB | `native/win/arm64` |
-| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.tar.gz) | 2.2 MiB | `native/win/arm64` |
-| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zip) | 2.2 MiB | `native/win/arm64` |
-| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst) | 1.8 MiB | `native/win/arm64` |
-| [codex-responses-api-proxy-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
-| [codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz) | 4.8 MiB | `native/linux/arm64/musl` |
-| [codex-responses-api-proxy-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-aarch64-unknown-linux-musl.zst) | 4.1 MiB | `native/linux/arm64/musl` |
-| [codex-responses-api-proxy-npm-0.158.0.tgz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-npm-0.158.0.tgz) | 19.4 MiB | `native/unknown` |
-| [codex-responses-api-proxy-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-x86_64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/x64` |
-| [codex-responses-api-proxy-x86_64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-x86_64-apple-darwin.zst) | 2.0 MiB | `native/darwin/x64` |
-| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe) | 5.7 MiB | `native/win/x64` |
-| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.tar.gz) | 2.4 MiB | `native/win/x64` |
-| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zip) | 2.3 MiB | `native/win/x64` |
-| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zst) | 1.9 MiB | `native/win/x64` |
-| [codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
-| [codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz) | 4.8 MiB | `native/linux/x64/musl` |
-| [codex-responses-api-proxy-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-responses-api-proxy-x86_64-unknown-linux-musl.zst) | 3.8 MiB | `native/linux/x64/musl` |
-| [codex-sdk-npm-0.158.0.tgz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-sdk-npm-0.158.0.tgz) | 20.7 KiB | `native/unknown` |
-| [codex-symbols-aarch64-apple-darwin-app-server.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-aarch64-apple-darwin-app-server.tar.gz) | 247.4 MiB | `native/darwin/arm64` |
-| [codex-symbols-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-aarch64-apple-darwin.tar.gz) | 321.3 MiB | `native/darwin/arm64` |
-| [codex-symbols-aarch64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-aarch64-pc-windows-msvc.tar.gz) | 533.7 MiB | `native/win/arm64` |
-| [codex-symbols-aarch64-unknown-linux-musl-app-server.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-aarch64-unknown-linux-musl-app-server.tar.gz) | 196.8 MiB | `native/linux/arm64/musl` |
-| [codex-symbols-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-aarch64-unknown-linux-musl.tar.gz) | 252.6 MiB | `native/linux/arm64/musl` |
-| [codex-symbols-x86_64-apple-darwin-app-server.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-x86_64-apple-darwin-app-server.tar.gz) | 252.4 MiB | `native/darwin/x64` |
-| [codex-symbols-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-x86_64-apple-darwin.tar.gz) | 327.3 MiB | `native/darwin/x64` |
-| [codex-symbols-x86_64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-x86_64-pc-windows-msvc.tar.gz) | 547.4 MiB | `native/win/x64` |
-| [codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz) | 190.0 MiB | `native/linux/x64/musl` |
-| [codex-symbols-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-symbols-x86_64-unknown-linux-musl.tar.gz) | 243.7 MiB | `native/linux/x64/musl` |
-| [codex-windows-sandbox-service](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-service) | 1.4 KiB | `native/win/x64` |
-| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe) | 44.7 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz) | 15.5 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip) | 15.1 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst) | 11.3 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe) | 52.5 MiB | `native/win/x64` |
-| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz) | 16.9 MiB | `native/win/x64` |
-| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip) | 16.4 MiB | `native/win/x64` |
-| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst) | 12.2 MiB | `native/win/x64` |
-| [codex-windows-sandbox-setup](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-setup) | 1.4 KiB | `native/win/x64` |
-| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe) | 15.0 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz) | 6.1 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip) | 6.0 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst) | 4.6 MiB | `native/win/arm64` |
-| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe) | 16.9 MiB | `native/win/x64` |
-| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz) | 6.5 MiB | `native/win/x64` |
-| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip) | 6.3 MiB | `native/win/x64` |
-| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst) | 4.9 MiB | `native/win/x64` |
-| [codex-x86_64-apple-darwin.dmg](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-apple-darwin.dmg) | 178.1 MiB | `native/darwin/x64` |
-| [codex-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-apple-darwin.tar.gz) | 98.9 MiB | `native/darwin/x64` |
-| [codex-x86_64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-apple-darwin.zst) | 71.2 MiB | `native/darwin/x64` |
-| [codex-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-pc-windows-msvc.exe) | 309.2 MiB | `native/win/x64` |
-| [codex-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-pc-windows-msvc.exe.tar.gz) | 103.3 MiB | `native/win/x64` |
-| [codex-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-pc-windows-msvc.exe.zip) | 154.0 MiB | `native/win/x64` |
-| [codex-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-pc-windows-msvc.exe.zst) | 75.9 MiB | `native/win/x64` |
-| [codex-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
-| [codex-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-unknown-linux-musl.tar.gz) | 103.1 MiB | `native/linux/x64/musl` |
-| [codex-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.158.0/codex-x86_64-unknown-linux-musl.zst) | 73.5 MiB | `native/linux/x64/musl` |
-| [config-schema.json](https://github.com/openai/codex/releases/download/rust-v0.158.0/config-schema.json) | 222.1 KiB | `other` |
-| [install.ps1](https://github.com/openai/codex/releases/download/rust-v0.158.0/install.ps1) | 42.8 KiB | `other` |
-| [install.sh](https://github.com/openai/codex/releases/download/rust-v0.158.0/install.sh) | 33.8 KiB | `other` |
-| [openai_codex_cli_bin-0.158.0-py3-none-macosx_10_9_x86_64.whl](https://github.com/openai/codex/releases/download/rust-v0.158.0/openai_codex_cli_bin-0.158.0-py3-none-macosx_10_9_x86_64.whl) | 125.5 MiB | `native/darwin/x64` |
-| [openai_codex_cli_bin-0.158.0-py3-none-macosx_11_0_arm64.whl](https://github.com/openai/codex/releases/download/rust-v0.158.0/openai_codex_cli_bin-0.158.0-py3-none-macosx_11_0_arm64.whl) | 115.4 MiB | `native/darwin/arm64` |
-| [openai_codex_cli_bin-0.158.0-py3-none-manylinux_2_17_aarch64.whl](https://github.com/openai/codex/releases/download/rust-v0.158.0/openai_codex_cli_bin-0.158.0-py3-none-manylinux_2_17_aarch64.whl) | 123.1 MiB | `native/linux/arm64` |
-| [openai_codex_cli_bin-0.158.0-py3-none-manylinux_2_17_x86_64.whl](https://github.com/openai/codex/releases/download/rust-v0.158.0/openai_codex_cli_bin-0.158.0-py3-none-manylinux_2_17_x86_64.whl) | 131.9 MiB | `native/linux/x64` |
-| [openai_codex_cli_bin-0.158.0-py3-none-win_amd64.whl](https://github.com/openai/codex/releases/download/rust-v0.158.0/openai_codex_cli_bin-0.158.0-py3-none-win_amd64.whl) | 141.6 MiB | `other` |
-| [openai_codex_cli_bin-0.158.0-py3-none-win_arm64.whl](https://github.com/openai/codex/releases/download/rust-v0.158.0/openai_codex_cli_bin-0.158.0-py3-none-win_arm64.whl) | 131.0 MiB | `other` |
+| [argument-comment-lint](https://github.com/openai/codex/releases/download/rust-v0.159.2/argument-comment-lint) | 2.6 KiB | `other` |
+| [argument-comment-lint-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/argument-comment-lint-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
+| [argument-comment-lint-aarch64-unknown-linux-gnu.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/argument-comment-lint-aarch64-unknown-linux-gnu.tar.gz) | 3.6 MiB | `native/linux/arm64/glibc` |
+| [argument-comment-lint-x86_64-pc-windows-msvc.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/argument-comment-lint-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
+| [argument-comment-lint-x86_64-unknown-linux-gnu.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/argument-comment-lint-x86_64-unknown-linux-gnu.tar.gz) | 3.7 MiB | `native/linux/x64/glibc` |
+| [bwrap](https://github.com/openai/codex/releases/download/rust-v0.159.2/bwrap) | 1.2 KiB | `other` |
+| [bwrap-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/bwrap-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
+| [bwrap-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/bwrap-aarch64-unknown-linux-musl.tar.gz) | 248.9 KiB | `native/linux/arm64/musl` |
+| [bwrap-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/bwrap-aarch64-unknown-linux-musl.zst) | 225.8 KiB | `native/linux/arm64/musl` |
+| [bwrap-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/bwrap-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
+| [bwrap-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/bwrap-x86_64-unknown-linux-musl.tar.gz) | 255.4 KiB | `native/linux/x64/musl` |
+| [bwrap-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/bwrap-x86_64-unknown-linux-musl.zst) | 232.1 KiB | `native/linux/x64/musl` |
+| [codex](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex) | 3.6 KiB | `other` |
+| [codex-aarch64-apple-darwin.dmg](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-apple-darwin.dmg) | 163.3 MiB | `native/darwin/arm64` |
+| [codex-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-apple-darwin.tar.gz) | 91.0 MiB | `native/darwin/arm64` |
+| [codex-aarch64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-apple-darwin.zst) | 64.9 MiB | `native/darwin/arm64` |
+| [codex-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-pc-windows-msvc.exe) | 260.9 MiB | `native/win/arm64` |
+| [codex-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-pc-windows-msvc.exe.tar.gz) | 94.6 MiB | `native/win/arm64` |
+| [codex-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-pc-windows-msvc.exe.zip) | 143.0 MiB | `native/win/arm64` |
+| [codex-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-pc-windows-msvc.exe.zst) | 70.1 MiB | `native/win/arm64` |
+| [codex-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
+| [codex-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-unknown-linux-musl.tar.gz) | 96.3 MiB | `native/linux/arm64/musl` |
+| [codex-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-aarch64-unknown-linux-musl.zst) | 69.2 MiB | `native/linux/arm64/musl` |
+| [codex-app-server](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server) | 3.8 KiB | `other` |
+| [codex-app-server-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-aarch64-apple-darwin.tar.gz) | 69.9 MiB | `native/darwin/arm64` |
+| [codex-app-server-aarch64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-aarch64-apple-darwin.zst) | 49.4 MiB | `native/darwin/arm64` |
+| [codex-app-server-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-aarch64-pc-windows-msvc.exe) | 199.3 MiB | `native/win/arm64` |
+| [codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz) | 72.7 MiB | `native/win/arm64` |
+| [codex-app-server-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-aarch64-pc-windows-msvc.exe.zip) | 70.8 MiB | `native/win/arm64` |
+| [codex-app-server-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-aarch64-pc-windows-msvc.exe.zst) | 53.4 MiB | `native/win/arm64` |
+| [codex-app-server-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
+| [codex-app-server-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-aarch64-unknown-linux-musl.tar.gz) | 74.6 MiB | `native/linux/arm64/musl` |
+| [codex-app-server-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-aarch64-unknown-linux-musl.zst) | 53.0 MiB | `native/linux/arm64/musl` |
+| [codex-app-server-package-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-aarch64-apple-darwin.tar.gz) | 94.5 MiB | `native/darwin/arm64` |
+| [codex-app-server-package-aarch64-apple-darwin.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-aarch64-apple-darwin.tar.zst) | 67.6 MiB | `native/darwin/arm64` |
+| [codex-app-server-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-aarch64-pc-windows-msvc.tar.gz) | 109.1 MiB | `native/win/arm64` |
+| [codex-app-server-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-aarch64-pc-windows-msvc.tar.zst) | 81.1 MiB | `native/win/arm64` |
+| [codex-app-server-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-aarch64-unknown-linux-musl.tar.gz) | 101.7 MiB | `native/linux/arm64/musl` |
+| [codex-app-server-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-aarch64-unknown-linux-musl.tar.zst) | 73.5 MiB | `native/linux/arm64/musl` |
+| [codex-app-server-package-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-x86_64-apple-darwin.tar.gz) | 102.7 MiB | `native/darwin/x64` |
+| [codex-app-server-package-x86_64-apple-darwin.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-x86_64-apple-darwin.tar.zst) | 73.5 MiB | `native/darwin/x64` |
+| [codex-app-server-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-x86_64-pc-windows-msvc.tar.gz) | 117.9 MiB | `native/win/x64` |
+| [codex-app-server-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-x86_64-pc-windows-msvc.tar.zst) | 87.4 MiB | `native/win/x64` |
+| [codex-app-server-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-x86_64-unknown-linux-musl.tar.gz) | 109.0 MiB | `native/linux/x64/musl` |
+| [codex-app-server-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-package-x86_64-unknown-linux-musl.tar.zst) | 78.1 MiB | `native/linux/x64/musl` |
+| [codex-app-server-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-x86_64-apple-darwin.tar.gz) | 76.1 MiB | `native/darwin/x64` |
+| [codex-app-server-x86_64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-x86_64-apple-darwin.zst) | 53.6 MiB | `native/darwin/x64` |
+| [codex-app-server-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-x86_64-pc-windows-msvc.exe) | 237.3 MiB | `native/win/x64` |
+| [codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz) | 79.6 MiB | `native/win/x64` |
+| [codex-app-server-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-x86_64-pc-windows-msvc.exe.zip) | 77.0 MiB | `native/win/x64` |
+| [codex-app-server-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-x86_64-pc-windows-msvc.exe.zst) | 58.0 MiB | `native/win/x64` |
+| [codex-app-server-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
+| [codex-app-server-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-x86_64-unknown-linux-musl.tar.gz) | 80.2 MiB | `native/linux/x64/musl` |
+| [codex-app-server-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-app-server-x86_64-unknown-linux-musl.zst) | 56.4 MiB | `native/linux/x64/musl` |
+| [codex-code-mode-host-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-aarch64-apple-darwin.tar.gz) | 22.7 MiB | `native/darwin/arm64` |
+| [codex-code-mode-host-aarch64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-aarch64-apple-darwin.zst) | 16.7 MiB | `native/darwin/arm64` |
+| [codex-code-mode-host-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-aarch64-pc-windows-msvc.exe) | 66.5 MiB | `native/win/arm64` |
+| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-aarch64-pc-windows-msvc.exe.tar.gz) | 26.4 MiB | `native/win/arm64` |
+| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zip) | 25.6 MiB | `native/win/arm64` |
+| [codex-code-mode-host-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zst) | 20.2 MiB | `native/win/arm64` |
+| [codex-code-mode-host-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
+| [codex-code-mode-host-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-aarch64-unknown-linux-musl.tar.gz) | 24.8 MiB | `native/linux/arm64/musl` |
+| [codex-code-mode-host-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-aarch64-unknown-linux-musl.zst) | 18.7 MiB | `native/linux/arm64/musl` |
+| [codex-code-mode-host-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-x86_64-apple-darwin.tar.gz) | 24.5 MiB | `native/darwin/x64` |
+| [codex-code-mode-host-x86_64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-x86_64-apple-darwin.zst) | 18.2 MiB | `native/darwin/x64` |
+| [codex-code-mode-host-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-x86_64-pc-windows-msvc.exe) | 71.2 MiB | `native/win/x64` |
+| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-x86_64-pc-windows-msvc.exe.tar.gz) | 27.6 MiB | `native/win/x64` |
+| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zip) | 26.8 MiB | `native/win/x64` |
+| [codex-code-mode-host-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zst) | 21.3 MiB | `native/win/x64` |
+| [codex-code-mode-host-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
+| [codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz) | 26.2 MiB | `native/linux/x64/musl` |
+| [codex-code-mode-host-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-code-mode-host-x86_64-unknown-linux-musl.zst) | 19.6 MiB | `native/linux/x64/musl` |
+| [codex-command-runner](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-command-runner) | 1.3 KiB | `other` |
+| [codex-command-runner-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-command-runner-aarch64-pc-windows-msvc.exe) | 7.0 MiB | `native/win/arm64` |
+| [codex-command-runner-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-command-runner-aarch64-pc-windows-msvc.exe.tar.gz) | 2.6 MiB | `native/win/arm64` |
+| [codex-command-runner-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-command-runner-aarch64-pc-windows-msvc.exe.zip) | 2.5 MiB | `native/win/arm64` |
+| [codex-command-runner-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-command-runner-aarch64-pc-windows-msvc.exe.zst) | 2.0 MiB | `native/win/arm64` |
+| [codex-command-runner-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-command-runner-x86_64-pc-windows-msvc.exe) | 7.8 MiB | `native/win/x64` |
+| [codex-command-runner-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-command-runner-x86_64-pc-windows-msvc.exe.tar.gz) | 2.8 MiB | `native/win/x64` |
+| [codex-command-runner-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-command-runner-x86_64-pc-windows-msvc.exe.zip) | 2.7 MiB | `native/win/x64` |
+| [codex-command-runner-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-command-runner-x86_64-pc-windows-msvc.exe.zst) | 2.2 MiB | `native/win/x64` |
+| [codex-npm-0.159.2.tgz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-npm-0.159.2.tgz) | 4.8 KiB | `native/unknown` |
+| [codex-npm-darwin-arm64-0.159.2.tgz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-npm-darwin-arm64-0.159.2.tgz) | 127.6 MiB | `native/darwin/arm64` |
+| [codex-npm-darwin-x64-0.159.2.tgz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-npm-darwin-x64-0.159.2.tgz) | 136.3 MiB | `native/darwin/x64` |
+| [codex-npm-linux-arm64-0.159.2.tgz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-npm-linux-arm64-0.159.2.tgz) | 147.8 MiB | `native/linux/arm64` |
+| [codex-npm-linux-x64-0.159.2.tgz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-npm-linux-x64-0.159.2.tgz) | 154.9 MiB | `native/unknown` |
+| [codex-npm-win32-arm64-0.159.2.tgz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-npm-win32-arm64-0.159.2.tgz) | 144.2 MiB | `native/win/arm64` |
+| [codex-npm-win32-x64-0.159.2.tgz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-npm-win32-x64-0.159.2.tgz) | 154.3 MiB | `native/win/x64` |
+| [codex-package-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-aarch64-apple-darwin.tar.gz) | 123.5 MiB | `native/darwin/arm64` |
+| [codex-package-aarch64-apple-darwin.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-aarch64-apple-darwin.tar.zst) | 89.3 MiB | `native/darwin/arm64` |
+| [codex-package-aarch64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-aarch64-pc-windows-msvc.tar.gz) | 138.0 MiB | `native/win/arm64` |
+| [codex-package-aarch64-pc-windows-msvc.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-aarch64-pc-windows-msvc.tar.zst) | 103.2 MiB | `native/win/arm64` |
+| [codex-package-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-aarch64-unknown-linux-musl.tar.gz) | 143.3 MiB | `native/linux/arm64/musl` |
+| [codex-package-aarch64-unknown-linux-musl.tar.gz.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-aarch64-unknown-linux-musl.tar.gz.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
+| [codex-package-aarch64-unknown-linux-musl.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-aarch64-unknown-linux-musl.tar.zst) | 104.2 MiB | `native/linux/arm64/musl` |
+| [codex-package-aarch64-unknown-linux-musl.tar.zst.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-aarch64-unknown-linux-musl.tar.zst.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
+| [codex-package-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-x86_64-apple-darwin.tar.gz) | 134.3 MiB | `native/darwin/x64` |
+| [codex-package-x86_64-apple-darwin.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-x86_64-apple-darwin.tar.zst) | 97.8 MiB | `native/darwin/x64` |
+| [codex-package-x86_64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-x86_64-pc-windows-msvc.tar.gz) | 149.4 MiB | `native/win/x64` |
+| [codex-package-x86_64-pc-windows-msvc.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-x86_64-pc-windows-msvc.tar.zst) | 111.5 MiB | `native/win/x64` |
+| [codex-package-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-x86_64-unknown-linux-musl.tar.gz) | 152.6 MiB | `native/linux/x64/musl` |
+| [codex-package-x86_64-unknown-linux-musl.tar.gz.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-x86_64-unknown-linux-musl.tar.gz.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
+| [codex-package-x86_64-unknown-linux-musl.tar.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-x86_64-unknown-linux-musl.tar.zst) | 109.9 MiB | `native/linux/x64/musl` |
+| [codex-package-x86_64-unknown-linux-musl.tar.zst.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package-x86_64-unknown-linux-musl.tar.zst.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
+| [codex-package_SHA256SUMS](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-package_SHA256SUMS) | 1.6 KiB | `other` |
+| [codex-provisioned](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-provisioned) | 1.3 KiB | `other` |
+| [codex-provisioned-package-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-provisioned-package-aarch64-apple-darwin.tar.gz) | 123.5 MiB | `native/darwin/arm64` |
+| [codex-provisioned-package-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-provisioned-package-x86_64-apple-darwin.tar.gz) | 134.3 MiB | `native/darwin/x64` |
+| [codex-responses-api-proxy](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy) | 3.8 KiB | `other` |
+| [codex-responses-api-proxy-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-aarch64-apple-darwin.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
+| [codex-responses-api-proxy-aarch64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-aarch64-apple-darwin.zst) | 1.8 MiB | `native/darwin/arm64` |
+| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe) | 5.0 MiB | `native/win/arm64` |
+| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.tar.gz) | 2.2 MiB | `native/win/arm64` |
+| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zip) | 2.2 MiB | `native/win/arm64` |
+| [codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst) | 1.8 MiB | `native/win/arm64` |
+| [codex-responses-api-proxy-aarch64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-aarch64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/arm64/musl` |
+| [codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz) | 4.8 MiB | `native/linux/arm64/musl` |
+| [codex-responses-api-proxy-aarch64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-aarch64-unknown-linux-musl.zst) | 4.1 MiB | `native/linux/arm64/musl` |
+| [codex-responses-api-proxy-npm-0.159.2.tgz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-npm-0.159.2.tgz) | 19.4 MiB | `native/unknown` |
+| [codex-responses-api-proxy-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-x86_64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/x64` |
+| [codex-responses-api-proxy-x86_64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-x86_64-apple-darwin.zst) | 2.0 MiB | `native/darwin/x64` |
+| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe) | 5.7 MiB | `native/win/x64` |
+| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.tar.gz) | 2.4 MiB | `native/win/x64` |
+| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zip) | 2.3 MiB | `native/win/x64` |
+| [codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zst) | 1.9 MiB | `native/win/x64` |
+| [codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
+| [codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz) | 4.8 MiB | `native/linux/x64/musl` |
+| [codex-responses-api-proxy-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-responses-api-proxy-x86_64-unknown-linux-musl.zst) | 3.8 MiB | `native/linux/x64/musl` |
+| [codex-sdk-npm-0.159.2.tgz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-sdk-npm-0.159.2.tgz) | 20.7 KiB | `native/unknown` |
+| [codex-symbols-aarch64-apple-darwin-app-server.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-aarch64-apple-darwin-app-server.tar.gz) | 248.5 MiB | `native/darwin/arm64` |
+| [codex-symbols-aarch64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-aarch64-apple-darwin.tar.gz) | 322.2 MiB | `native/darwin/arm64` |
+| [codex-symbols-aarch64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-aarch64-pc-windows-msvc.tar.gz) | 533.8 MiB | `native/win/arm64` |
+| [codex-symbols-aarch64-unknown-linux-musl-app-server.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-aarch64-unknown-linux-musl-app-server.tar.gz) | 197.4 MiB | `native/linux/arm64/musl` |
+| [codex-symbols-aarch64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-aarch64-unknown-linux-musl.tar.gz) | 252.9 MiB | `native/linux/arm64/musl` |
+| [codex-symbols-x86_64-apple-darwin-app-server.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-x86_64-apple-darwin-app-server.tar.gz) | 253.5 MiB | `native/darwin/x64` |
+| [codex-symbols-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-x86_64-apple-darwin.tar.gz) | 328.4 MiB | `native/darwin/x64` |
+| [codex-symbols-x86_64-pc-windows-msvc.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-x86_64-pc-windows-msvc.tar.gz) | 550.4 MiB | `native/win/x64` |
+| [codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz) | 190.7 MiB | `native/linux/x64/musl` |
+| [codex-symbols-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-symbols-x86_64-unknown-linux-musl.tar.gz) | 244.3 MiB | `native/linux/x64/musl` |
+| [codex-windows-sandbox-service](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-service) | 1.4 KiB | `native/win/x64` |
+| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe) | 44.4 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz) | 15.5 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip) | 15.1 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst) | 11.2 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe) | 52.0 MiB | `native/win/x64` |
+| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz) | 16.9 MiB | `native/win/x64` |
+| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip) | 16.4 MiB | `native/win/x64` |
+| [codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst) | 12.1 MiB | `native/win/x64` |
+| [codex-windows-sandbox-setup](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-setup) | 1.4 KiB | `native/win/x64` |
+| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe) | 15.0 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz) | 6.1 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip) | 6.0 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst) | 4.6 MiB | `native/win/arm64` |
+| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe) | 16.9 MiB | `native/win/x64` |
+| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz) | 6.5 MiB | `native/win/x64` |
+| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip) | 6.3 MiB | `native/win/x64` |
+| [codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst) | 4.9 MiB | `native/win/x64` |
+| [codex-x86_64-apple-darwin.dmg](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-apple-darwin.dmg) | 178.4 MiB | `native/darwin/x64` |
+| [codex-x86_64-apple-darwin.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-apple-darwin.tar.gz) | 99.4 MiB | `native/darwin/x64` |
+| [codex-x86_64-apple-darwin.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-apple-darwin.zst) | 71.4 MiB | `native/darwin/x64` |
+| [codex-x86_64-pc-windows-msvc.exe](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-pc-windows-msvc.exe) | 309.7 MiB | `native/win/x64` |
+| [codex-x86_64-pc-windows-msvc.exe.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-pc-windows-msvc.exe.tar.gz) | 103.4 MiB | `native/win/x64` |
+| [codex-x86_64-pc-windows-msvc.exe.zip](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-pc-windows-msvc.exe.zip) | 154.1 MiB | `native/win/x64` |
+| [codex-x86_64-pc-windows-msvc.exe.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-pc-windows-msvc.exe.zst) | 76.1 MiB | `native/win/x64` |
+| [codex-x86_64-unknown-linux-musl.sigstore](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-unknown-linux-musl.sigstore) | 8.4 KiB | `native/linux/x64/musl` |
+| [codex-x86_64-unknown-linux-musl.tar.gz](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-unknown-linux-musl.tar.gz) | 103.5 MiB | `native/linux/x64/musl` |
+| [codex-x86_64-unknown-linux-musl.zst](https://github.com/openai/codex/releases/download/rust-v0.159.2/codex-x86_64-unknown-linux-musl.zst) | 73.7 MiB | `native/linux/x64/musl` |
+| [config-schema.json](https://github.com/openai/codex/releases/download/rust-v0.159.2/config-schema.json) | 223.1 KiB | `other` |
+| [install.ps1](https://github.com/openai/codex/releases/download/rust-v0.159.2/install.ps1) | 42.8 KiB | `other` |
+| [install.sh](https://github.com/openai/codex/releases/download/rust-v0.159.2/install.sh) | 33.8 KiB | `other` |
+| [openai_codex_cli_bin-0.159.2-py3-none-macosx_10_9_x86_64.whl](https://github.com/openai/codex/releases/download/rust-v0.159.2/openai_codex_cli_bin-0.159.2-py3-none-macosx_10_9_x86_64.whl) | 126.0 MiB | `native/darwin/x64` |
+| [openai_codex_cli_bin-0.159.2-py3-none-macosx_11_0_arm64.whl](https://github.com/openai/codex/releases/download/rust-v0.159.2/openai_codex_cli_bin-0.159.2-py3-none-macosx_11_0_arm64.whl) | 115.7 MiB | `native/darwin/arm64` |
+| [openai_codex_cli_bin-0.159.2-py3-none-manylinux_2_17_aarch64.whl](https://github.com/openai/codex/releases/download/rust-v0.159.2/openai_codex_cli_bin-0.159.2-py3-none-manylinux_2_17_aarch64.whl) | 123.3 MiB | `native/linux/arm64` |
+| [openai_codex_cli_bin-0.159.2-py3-none-manylinux_2_17_x86_64.whl](https://github.com/openai/codex/releases/download/rust-v0.159.2/openai_codex_cli_bin-0.159.2-py3-none-manylinux_2_17_x86_64.whl) | 132.3 MiB | `native/linux/x64` |
+| [openai_codex_cli_bin-0.159.2-py3-none-win_amd64.whl](https://github.com/openai/codex/releases/download/rust-v0.159.2/openai_codex_cli_bin-0.159.2-py3-none-win_amd64.whl) | 141.7 MiB | `other` |
+| [openai_codex_cli_bin-0.159.2-py3-none-win_arm64.whl](https://github.com/openai/codex/releases/download/rust-v0.159.2/openai_codex_cli_bin-0.159.2-py3-none-win_arm64.whl) | 131.0 MiB | `other` |
 
 ## Improve this data
 
@@ -254,4 +254,4 @@ Install metadata for codex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:41:38Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:21:56Z._
