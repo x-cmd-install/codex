@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 132,198 · **Forks**: 20,886 · **Open issues**: 38,521 · **Contributors**: 718
+- **Stars**: 132,586 · **Forks**: 20,945 · **Open issues**: 38,678 · **Contributors**: 718
 
 ## Totals (cumulative)
 
-- **Releases**: 1257 · **Merged PRs**: 13068 · **Open PRs**: 164 · **Closed issues**: 12930 · **Open issues**: 25591 · **Commits**: 12940
+- **Releases**: 1257 · **Merged PRs**: 13068 · **Open PRs**: 164 · **Closed issues**: 12943 · **Open issues**: 25735 · **Commits**: 12940
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 78 | 1198 | 2 | 563 | 6424 | 1099 |
-| last60d | 2026-09-01 | 100 | 2835 | 2 | 1550 | 11612 | 2617 |
-| 90d | 2026-08-02 | 100 | 4039 | 2 | 2108 | 15065 | 3899 |
-| last180d | 2026-05-04 | 100 | 6682 | 120 | 4881 | 23185 | 6603 |
-| 360d | 2025-11-05 | 100 | 11073 | 164 | 10228 | 25503 | 11370 |
-| last720d | 2024-11-10 | 100 | 12962 | 164 | 12930 | 25591 | 12940 |
+| 30d | 2026-10-02 | 66 | 1148 | 2 | 527 | 6331 | 804 |
+| last60d | 2026-09-02 | 100 | 2770 | 2 | 1534 | 11616 | 2274 |
+| 90d | 2026-08-03 | 100 | 4004 | 2 | 2099 | 15096 | 3659 |
+| last180d | 2026-05-05 | 100 | 6644 | 120 | 4850 | 23273 | 6328 |
+| 360d | 2025-11-06 | 100 | 11056 | 164 | 10214 | 25646 | 11263 |
+| last720d | 2024-11-11 | 100 | 12962 | 164 | 12943 | 25735 | 12940 |
 
 ## Release assets
 
@@ -432,4 +432,4 @@ Install metadata for codex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:24:02Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:58:21Z._
