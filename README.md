@@ -14,14 +14,14 @@ x install codex
 
 ## Code insight
 
-Total: **2,429,936** lines of code across **7618** files in the top 5 languages.
+Total: **2,431,930** lines of code across **7622** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 2,167,349 | 21,831 | 147,766 | 6067 |
+| Rust | 2,169,325 | 21,850 | 147,844 | 6071 |
 | Json | 178,570 | 0 | 0 | 376 |
 | Python | 50,812 | 397 | 7,471 | 166 |
-| Toml | 6,822 | 300 | 832 | 189 |
+| Toml | 6,824 | 300 | 832 | 189 |
 | TypeScript | 6,004 | 4,300 | 1,989 | 820 |
 
 ## OpenSSF Scorecard
@@ -41,28 +41,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `rust-v0.171.0-alpha.5` (2026-11-13)
-- **Last commit**: 2026-11-15
+- **Latest**: `rust-v0.171.0-alpha.7` (2026-11-13)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 194
 
 ## Popularity
 
-- **Stars**: 135,331 · **Forks**: 21,464 · **Open issues**: 40,849 · **Contributors**: 742
+- **Stars**: 135,455 · **Forks**: 21,481 · **Open issues**: 40,961 · **Contributors**: 742
 
 ## Totals (cumulative)
 
-- **Releases**: 1293 · **Merged PRs**: 13743 · **Open PRs**: 161 · **Closed issues**: 13461 · **Open issues**: 27388 · **Commits**: 13615
+- **Releases**: 1295 · **Merged PRs**: 13770 · **Open PRs**: 161 · **Closed issues**: 13500 · **Open issues**: 27461 · **Commits**: 13642
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 65 | 1296 | 2 | 444 | 4954 | 1038 |
-| last60d | 2026-09-16 | 100 | 2754 | 2 | 1472 | 10976 | 2201 |
-| 90d | 2026-08-17 | 100 | 4197 | 2 | 2200 | 15527 | 3665 |
-| last180d | 2026-05-19 | 100 | 6948 | 113 | 4719 | 24100 | 6573 |
-| 360d | 2025-11-20 | 100 | 11598 | 161 | 10425 | 27282 | 11662 |
-| last720d | 2024-11-25 | 100 | 13734 | 161 | 13462 | 27388 | 13615 |
+| 30d | 2026-10-17 | 65 | 1312 | 2 | 437 | 4879 | 1065 |
+| last60d | 2026-09-17 | 100 | 2724 | 2 | 1461 | 10898 | 2228 |
+| 90d | 2026-08-18 | 100 | 4153 | 2 | 2198 | 15510 | 3692 |
+| last180d | 2026-05-20 | 100 | 6918 | 113 | 4713 | 24118 | 6600 |
+| 360d | 2025-11-21 | 100 | 11601 | 161 | 10420 | 27349 | 11689 |
+| last720d | 2024-11-26 | 100 | 13764 | 161 | 13500 | 27461 | 13642 |
 
 ## Release assets
 
@@ -272,4 +272,4 @@ Install metadata for codex lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:30:48Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:49:05Z._
