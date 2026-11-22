@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2693,
       "digest": "sha256:0b6b41b25237d5fcc5e446998724205c0a1ec0fed91de890ff8a05814f788fd9",
-      "download_count": 182,
+      "download_count": 349,
       "created_at": "2026-11-20T00:47:01Z",
       "updated_at": "2026-11-20T00:47:01Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/argument-comment-lint"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3350871,
       "digest": "sha256:8781061a503beb2c2b938cdf8e1f7962e145013d990d0e3a238ea603ef9f3a08",
-      "download_count": 190,
+      "download_count": 368,
       "created_at": "2026-11-20T00:43:16Z",
       "updated_at": "2026-11-20T00:43:16Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/argument-comment-lint-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3749128,
       "digest": "sha256:0e5236a8194ef54bfe3c33be89fa1114c2282f27e354ed253138d8792d834213",
-      "download_count": 137,
+      "download_count": 305,
       "created_at": "2026-11-20T00:43:16Z",
       "updated_at": "2026-11-20T00:43:17Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/argument-comment-lint-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3276130,
       "digest": "sha256:66c963dc108acd45a0de85646cd18052addab9abb3d68ee8bce9bc33872169fa",
-      "download_count": 138,
+      "download_count": 195,
       "created_at": "2026-11-20T00:43:17Z",
       "updated_at": "2026-11-20T00:43:17Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/argument-comment-lint-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3819398,
       "digest": "sha256:25aeb3c80285035d1cde2258bb83ac84305920c8973860ff1b00e95ddb0a4045",
-      "download_count": 65,
+      "download_count": 247,
       "created_at": "2026-11-20T00:43:17Z",
       "updated_at": "2026-11-20T00:43:18Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/argument-comment-lint-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1217,
       "digest": "sha256:82a159603b11f5243199a16a6442efa4a3a25705e9ba03622a016a48e452fa02",
-      "download_count": 24,
+      "download_count": 33,
       "created_at": "2026-11-20T00:46:47Z",
       "updated_at": "2026-11-20T00:46:47Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/bwrap"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8509,
       "digest": "sha256:77593fc4fb372cc9f5d9002c00fd07bd3999413678885697c14d49e44de7322f",
-      "download_count": 41,
+      "download_count": 197,
       "created_at": "2026-11-20T00:43:07Z",
       "updated_at": "2026-11-20T00:43:07Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/bwrap-aarch64-unknown-linux-musl.sigstore"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 248954,
       "digest": "sha256:bfafa334e99119c5dcedc437e123de8605b3f8f615f43af793226ab51d57d9f2",
-      "download_count": 81,
+      "download_count": 267,
       "created_at": "2026-11-20T00:43:08Z",
       "updated_at": "2026-11-20T00:43:08Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/bwrap-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 225840,
       "digest": "sha256:b7f5f2146ea614f6a5524d4d6a2b350e1264b611026f4e52968d432d21803b12",
-      "download_count": 19,
+      "download_count": 113,
       "created_at": "2026-11-20T00:43:09Z",
       "updated_at": "2026-11-20T00:43:09Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/bwrap-aarch64-unknown-linux-musl.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 8489,
       "digest": "sha256:77787c674164773a4ae6b433b701762adaf99c8380a7201e229b2fe4b46de3f1",
-      "download_count": 43,
+      "download_count": 53,
       "created_at": "2026-11-20T00:44:31Z",
       "updated_at": "2026-11-20T00:44:32Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/bwrap-x86_64-unknown-linux-musl.sigstore"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 251442,
       "digest": "sha256:5286c22a20fb4e8f24a207990296ebfbb06d99ad5ec560502880f3744fa3783b",
-      "download_count": 260,
+      "download_count": 383,
       "created_at": "2026-11-20T00:44:32Z",
       "updated_at": "2026-11-20T00:44:32Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/bwrap-x86_64-unknown-linux-musl.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 228871,
       "digest": "sha256:6f122933bd4cb7113d11aec2db1b8ba2977ff11b961b26fec65950057aafe28c",
-      "download_count": 15,
+      "download_count": 24,
       "created_at": "2026-11-20T00:44:33Z",
       "updated_at": "2026-11-20T00:44:33Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/bwrap-x86_64-unknown-linux-musl.zst"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3701,
       "digest": "sha256:ac593cba74368b9a54cab65c93e4cda3e203a217d39af9d5f195b5610dbf8acd",
-      "download_count": 91,
+      "download_count": 153,
       "created_at": "2026-11-20T00:46:16Z",
       "updated_at": "2026-11-20T00:46:16Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 250609096,
       "digest": "sha256:a045e08133c1d29a388443e2dc672768ad34a0b4fb31cdeebfd9de110bdfb02a",
-      "download_count": 593,
+      "download_count": 970,
       "created_at": "2026-11-20T00:42:26Z",
       "updated_at": "2026-11-20T00:42:34Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-apple-darwin.dmg"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 117221737,
       "digest": "sha256:9414c8c967f110b11e8324c0cfa2b20f012094ef890110a561c92ee535a2681a",
-      "download_count": 1521,
+      "download_count": 2349,
       "created_at": "2026-11-20T00:42:26Z",
       "updated_at": "2026-11-20T00:42:32Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-apple-darwin.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 83881804,
       "digest": "sha256:50ca5e2b331dda3b9ed4b902b471508e6c74a2e10a2b8e717c13738b3e1f2fa5",
-      "download_count": 49,
+      "download_count": 76,
       "created_at": "2026-11-20T00:42:27Z",
       "updated_at": "2026-11-20T00:42:30Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-apple-darwin.zst"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 342517040,
       "digest": "sha256:33a3248aa0f0b31b69a987658915517b0faed6498956ad823396353845033730",
-      "download_count": 144,
+      "download_count": 214,
       "created_at": "2026-11-20T00:42:36Z",
       "updated_at": "2026-11-20T00:42:50Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-pc-windows-msvc.exe"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 123970349,
       "digest": "sha256:6c1e4aff77eff3653e444f633922ea05f773f43e791f79ec6de33c44a2ca4577",
-      "download_count": 19,
+      "download_count": 32,
       "created_at": "2026-11-20T00:42:38Z",
       "updated_at": "2026-11-20T00:42:42Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 203311352,
       "digest": "sha256:4bc00adee646a698360997c9cabb783efa09ec90d87fa9ab2c6e1aefd9788bc6",
-      "download_count": 140,
+      "download_count": 215,
       "created_at": "2026-11-20T00:42:39Z",
       "updated_at": "2026-11-20T00:42:45Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-pc-windows-msvc.exe.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 92879799,
       "digest": "sha256:57870be0529d660bfcefbf601441a7eaf1623344519dd183a6c3490a6b1125b9",
-      "download_count": 11,
+      "download_count": 16,
       "created_at": "2026-11-20T00:42:40Z",
       "updated_at": "2026-11-20T00:42:44Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-pc-windows-msvc.exe.zst"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 8509,
       "digest": "sha256:4b463a64ebb64006461beb1a09b5f01de1ce97b428e9ca6963433015e42700c3",
-      "download_count": 34,
+      "download_count": 44,
       "created_at": "2026-11-20T00:43:09Z",
       "updated_at": "2026-11-20T00:43:09Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-unknown-linux-musl.sigstore"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 124436451,
       "digest": "sha256:bcf50b836385e51bd2976ab2bbe92b1b08a1cbe37712eb8dbe378aa78d24871c",
-      "download_count": 1313,
+      "download_count": 2225,
       "created_at": "2026-11-20T00:43:09Z",
       "updated_at": "2026-11-20T00:43:13Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-unknown-linux-musl.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 89910189,
       "digest": "sha256:4115fd4413219f26bd95a325be0f1f719209850ce2087846acf88b4fbb30e846",
-      "download_count": 37,
+      "download_count": 62,
       "created_at": "2026-11-20T00:43:09Z",
       "updated_at": "2026-11-20T00:43:12Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-aarch64-unknown-linux-musl.zst"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 3910,
       "digest": "sha256:2f0ecbacd510a8a07dcbb8ccdd3d4e0626a4db452c0e4f4c4b5c9f752b07b9b2",
-      "download_count": 12,
+      "download_count": 18,
       "created_at": "2026-11-20T00:46:37Z",
       "updated_at": "2026-11-20T00:46:38Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 90578226,
       "digest": "sha256:75690f1cc2ebd2ba71923dd52a69c3bf8bdbe6e0bc6c4861bb949cf977378b46",
-      "download_count": 74,
+      "download_count": 95,
       "created_at": "2026-11-20T00:42:22Z",
       "updated_at": "2026-11-20T00:42:26Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-aarch64-apple-darwin.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 63492306,
       "digest": "sha256:3a8e5e5f7cff52a77a8a39f6567b520a908ffb13ba7ba3036fd8c5df18e18004",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-11-20T00:42:22Z",
       "updated_at": "2026-11-20T00:42:24Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-aarch64-apple-darwin.zst"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 264881968,
       "digest": "sha256:6ea461e5089e5868fc1a105d54dc312f215a1eb723868c45db15d04777fcc96e",
-      "download_count": 32,
+      "download_count": 51,
       "created_at": "2026-11-20T00:42:43Z",
       "updated_at": "2026-11-20T00:42:50Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-aarch64-pc-windows-msvc.exe"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 95601345,
       "digest": "sha256:2ca82820465a4ac877f71e9a7a844ffd7c0c7ca39b8acaff86f518a200fa5b58",
-      "download_count": 13,
+      "download_count": 21,
       "created_at": "2026-11-20T00:42:44Z",
       "updated_at": "2026-11-20T00:42:47Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 93099669,
       "digest": "sha256:0ecb8c11a24b8e8563d35de93096d6ea8d50d721643d445e1d2f6f2c0f43338c",
-      "download_count": 24,
+      "download_count": 35,
       "created_at": "2026-11-20T00:42:46Z",
       "updated_at": "2026-11-20T00:42:49Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-aarch64-pc-windows-msvc.exe.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 70815340,
       "digest": "sha256:489177a60894df7c920ec289a35ea8965707cc81bceb329afd835d1e49cd91cd",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-20T00:42:48Z",
       "updated_at": "2026-11-20T00:42:50Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-aarch64-pc-windows-msvc.exe.zst"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 8489,
       "digest": "sha256:6c62af67e5aa733fe6b0f08cd96bcc8e792e070dd5c16a0a5eedf24975ee38cf",
-      "download_count": 11,
+      "download_count": 16,
       "created_at": "2026-11-20T00:43:03Z",
       "updated_at": "2026-11-20T00:43:03Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-aarch64-unknown-linux-musl.sigstore"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 95931754,
       "digest": "sha256:565429aaa1f81c8b24d1747cb71670b9dfd1fd476094375e195d81d5c119a30a",
-      "download_count": 36,
+      "download_count": 53,
       "created_at": "2026-11-20T00:43:03Z",
       "updated_at": "2026-11-20T00:43:07Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-aarch64-unknown-linux-musl.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 68167250,
       "digest": "sha256:d80e713af8508710d704916d349e30e15a643ac892463dbcf1201bd11193c3d4",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-11-20T00:43:04Z",
       "updated_at": "2026-11-20T00:43:07Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-aarch64-unknown-linux-musl.zst"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 141293335,
       "digest": "sha256:fe53328d2aa683e33ecef412a04ffb798025f65d7a41be9b09ad91fe91794402",
-      "download_count": 48,
+      "download_count": 62,
       "created_at": "2026-11-20T00:42:22Z",
       "updated_at": "2026-11-20T00:42:27Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-aarch64-apple-darwin.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 100074897,
       "digest": "sha256:e85b56a9a7bcc2a54fbd8289f067869050e7dc101a4c60aa9f86f4c7b164f91a",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-11-20T00:42:22Z",
       "updated_at": "2026-11-20T00:42:25Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-aarch64-apple-darwin.tar.zst"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 162378246,
       "digest": "sha256:8a60e27c88bc567c8acab3338337b526e281bd08a76cf856f77a67b6a5e25a10",
-      "download_count": 14,
+      "download_count": 21,
       "created_at": "2026-11-20T00:42:50Z",
       "updated_at": "2026-11-20T00:42:55Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-aarch64-pc-windows-msvc.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 120924662,
       "digest": "sha256:5555c1dd9ecb77d2da2de4a42e5ff77db742ece7517e0e41e974b9447e077cdb",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-20T00:42:50Z",
       "updated_at": "2026-11-20T00:42:54Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-aarch64-pc-windows-msvc.tar.zst"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 154014771,
       "digest": "sha256:73a7153f002d025db50fca0e11d43856bb726a732296818030ecb2e4a0cf0318",
-      "download_count": 47,
+      "download_count": 93,
       "created_at": "2026-11-20T00:43:04Z",
       "updated_at": "2026-11-20T00:43:09Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-aarch64-unknown-linux-musl.tar.gz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 111178390,
       "digest": "sha256:aa4bf2f7869ea7d4e15c4c108163e009d68085b4d62c30f8cf59a7bdbfbbb352",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-20T00:43:04Z",
       "updated_at": "2026-11-20T00:43:08Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-aarch64-unknown-linux-musl.tar.zst"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 153362446,
       "digest": "sha256:047c0fbff055623590df793c5e31fca537299dea51132c1272f25698e439d512",
-      "download_count": 20,
+      "download_count": 38,
       "created_at": "2026-11-20T00:43:40Z",
       "updated_at": "2026-11-20T00:43:47Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-x86_64-apple-darwin.tar.gz"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 109700289,
       "digest": "sha256:a7921480bc060df6362315239bdb854a1172c309e3f43f24a8f792319d9f83ca",
-      "download_count": 12,
+      "download_count": 16,
       "created_at": "2026-11-20T00:43:42Z",
       "updated_at": "2026-11-20T00:43:46Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-x86_64-apple-darwin.tar.zst"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 176008428,
       "digest": "sha256:9b20001daac4387f94315013382c6853e40c8f63de0603be021e4a5e983c329c",
-      "download_count": 48,
+      "download_count": 79,
       "created_at": "2026-11-20T00:43:58Z",
       "updated_at": "2026-11-20T00:44:04Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-x86_64-pc-windows-msvc.tar.gz"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 130803382,
       "digest": "sha256:d1585d9bfd56e21a1a3d31672674381d78f38b271b657dde056707585c7bc7e1",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-11-20T00:43:58Z",
       "updated_at": "2026-11-20T00:44:02Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-x86_64-pc-windows-msvc.tar.zst"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 152605351,
       "digest": "sha256:fbb41f283b22a161905a3849354ce7b7dd70c553ae422451aef908220fcabc8e",
-      "download_count": 58,
+      "download_count": 83,
       "created_at": "2026-11-20T00:44:26Z",
       "updated_at": "2026-11-20T00:44:31Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-x86_64-unknown-linux-musl.tar.gz"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 111869680,
       "digest": "sha256:d675d876043a4ba73cb9f7d37d920c2c15514460bbbd82a7013008a3f1837967",
-      "download_count": 17,
+      "download_count": 25,
       "created_at": "2026-11-20T00:44:27Z",
       "updated_at": "2026-11-20T00:44:31Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-package-x86_64-unknown-linux-musl.tar.zst"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 98271736,
       "digest": "sha256:8c47cf7ae093e0dc81be7936b6ea616d6b0c5dd62ce8918c9e858bcbc243064f",
-      "download_count": 15,
+      "download_count": 26,
       "created_at": "2026-11-20T00:43:42Z",
       "updated_at": "2026-11-20T00:43:45Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-x86_64-apple-darwin.tar.gz"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 69677727,
       "digest": "sha256:8510fd44007e3f91e1b75b967da2342f76f02962a87eed1032c50a261539b3bf",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-20T00:43:43Z",
       "updated_at": "2026-11-20T00:43:45Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-x86_64-apple-darwin.zst"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 316079408,
       "digest": "sha256:ed5fae3b2cc4aaa2d41762ed5748d5fb28da2c7d00d65db6f75f458593483ea4",
-      "download_count": 58,
+      "download_count": 95,
       "created_at": "2026-11-20T00:44:02Z",
       "updated_at": "2026-11-20T00:44:15Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-x86_64-pc-windows-msvc.exe"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 104482893,
       "digest": "sha256:188aa8a4b6b864ed92965861673c86261bc4a6e608a0341a407997c02de9e8c2",
-      "download_count": 16,
+      "download_count": 24,
       "created_at": "2026-11-20T00:44:03Z",
       "updated_at": "2026-11-20T00:44:06Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 101065522,
       "digest": "sha256:bee65e2081b5d810f9b048d231d40606ce6bc176f0b97fcc597441f5aaa97b40",
-      "download_count": 50,
+      "download_count": 88,
       "created_at": "2026-11-20T00:44:03Z",
       "updated_at": "2026-11-20T00:44:07Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-x86_64-pc-windows-msvc.exe.zip"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 76873948,
       "digest": "sha256:6aeae58288f72a8c59060bb30e40ee35eae76f51558f41a1c61660a1296ec38f",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-20T00:44:05Z",
       "updated_at": "2026-11-20T00:44:10Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-x86_64-pc-windows-msvc.exe.zst"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 8509,
       "digest": "sha256:b9f995ceb31ed4f1dc4bd60e47984e406cbd373627377d211cbaac7ca3211a50",
-      "download_count": 14,
+      "download_count": 21,
       "created_at": "2026-11-20T00:44:28Z",
       "updated_at": "2026-11-20T00:44:28Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-x86_64-unknown-linux-musl.sigstore"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 94390828,
       "digest": "sha256:421bcd19b25b5e5b88fd851ddaba6a155c6f9adebae154a2821b73db12d03787",
-      "download_count": 56,
+      "download_count": 82,
       "created_at": "2026-11-20T00:44:28Z",
       "updated_at": "2026-11-20T00:44:31Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-x86_64-unknown-linux-musl.tar.gz"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 68550327,
       "digest": "sha256:54cd493d9fa80a95b023af0f134ec904c300344c49465a571ea5798036735c48",
-      "download_count": 12,
+      "download_count": 16,
       "created_at": "2026-11-20T00:44:31Z",
       "updated_at": "2026-11-20T00:44:34Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-app-server-x86_64-unknown-linux-musl.zst"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 25336598,
       "digest": "sha256:7a05606c29b08cc44b50689e9aa3ec17f766a726abd6105cc9fa5306ee6335a7",
-      "download_count": 511,
+      "download_count": 818,
       "created_at": "2026-11-20T00:42:30Z",
       "updated_at": "2026-11-20T00:42:31Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-aarch64-apple-darwin.tar.gz"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 18571763,
       "digest": "sha256:1c843708b772875dd69471ca59489d36c05bd0068133dc066315f06147e0d12a",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-20T00:42:32Z",
       "updated_at": "2026-11-20T00:42:33Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-aarch64-apple-darwin.zst"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 74980144,
       "digest": "sha256:526f035801287bf8156fa4df0e17535efb75740d0a96a253aa59259eabc25e14",
-      "download_count": 16,
+      "download_count": 24,
       "created_at": "2026-11-20T00:42:50Z",
       "updated_at": "2026-11-20T00:42:54Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-aarch64-pc-windows-msvc.exe"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 29539734,
       "digest": "sha256:63885e7438bd2ab88917412f9bb84c897992301d8118133751f60e742b206437",
-      "download_count": 15,
+      "download_count": 23,
       "created_at": "2026-11-20T00:42:51Z",
       "updated_at": "2026-11-20T00:42:52Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 28690081,
       "digest": "sha256:25e5532116544235675493fdd758f040de66b72e5207e45ebd742aba23a8b333",
-      "download_count": 15,
+      "download_count": 23,
       "created_at": "2026-11-20T00:42:53Z",
       "updated_at": "2026-11-20T00:42:54Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zip"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 22550866,
       "digest": "sha256:0d1edf158a895d81172a32879b4ed3993ef5feadea2512b844cf10019e2573b5",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-20T00:42:54Z",
       "updated_at": "2026-11-20T00:42:55Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-aarch64-pc-windows-msvc.exe.zst"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 8509,
       "digest": "sha256:a4f2dc6af22fd37177355443a9af71b3f43abe3563e8902477c32de3c2dc200d",
-      "download_count": 21,
+      "download_count": 27,
       "created_at": "2026-11-20T00:43:09Z",
       "updated_at": "2026-11-20T00:43:10Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-aarch64-unknown-linux-musl.sigstore"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 27590334,
       "digest": "sha256:7669c881b78669b5f13ddb99996b5cef3fb10dab5b69f43be31d19e82e9cd62b",
-      "download_count": 321,
+      "download_count": 522,
       "created_at": "2026-11-20T00:43:10Z",
       "updated_at": "2026-11-20T00:43:11Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-aarch64-unknown-linux-musl.tar.gz"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 20713646,
       "digest": "sha256:2e3ad4dc646dae917bea5796949cfcd67c28f36b12bf84c90003923576084617",
-      "download_count": 12,
+      "download_count": 17,
       "created_at": "2026-11-20T00:43:12Z",
       "updated_at": "2026-11-20T00:43:13Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-aarch64-unknown-linux-musl.zst"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 27310621,
       "digest": "sha256:81cc6b41197806579fd237d95745e93e9b4ae7460f8061f686d65344ba5cf59c",
-      "download_count": 84,
+      "download_count": 143,
       "created_at": "2026-11-20T00:43:46Z",
       "updated_at": "2026-11-20T00:43:47Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-x86_64-apple-darwin.tar.gz"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 20211965,
       "digest": "sha256:8888912a502f197c0999f366f56097e676833e04848165000503f01de3d6b1ef",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-20T00:43:46Z",
       "updated_at": "2026-11-20T00:43:47Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-x86_64-apple-darwin.zst"
@@ -2407,7 +2407,7 @@
       "state": "uploaded",
       "size": 80723760,
       "digest": "sha256:aa02c6460ec6e2cd67d0d402d4fb5a4dc55d1a9b726596fae3534d4dfb023a16",
-      "download_count": 1253,
+      "download_count": 1854,
       "created_at": "2026-11-20T00:44:07Z",
       "updated_at": "2026-11-20T00:44:10Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-x86_64-pc-windows-msvc.exe"
@@ -2443,7 +2443,7 @@
       "state": "uploaded",
       "size": 31033774,
       "digest": "sha256:c2cf1a71e04772e6775b3ce7ebde161da4b8efc330bb4569bca31deaa657a545",
-      "download_count": 708,
+      "download_count": 2098,
       "created_at": "2026-11-20T00:44:07Z",
       "updated_at": "2026-11-20T00:44:08Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -2479,7 +2479,7 @@
       "state": "uploaded",
       "size": 30155094,
       "digest": "sha256:3f2b2cc7702ea25cf7c56a64cf3f96ac64f864cbf1aa7254b53df8ca4a9053c8",
-      "download_count": 71,
+      "download_count": 101,
       "created_at": "2026-11-20T00:44:09Z",
       "updated_at": "2026-11-20T00:44:10Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zip"
@@ -2515,7 +2515,7 @@
       "state": "uploaded",
       "size": 23868033,
       "digest": "sha256:bb0682b7c9bda5db51dd32a0b519754febeee44b74623a930adec2896f705324",
-      "download_count": 13,
+      "download_count": 20,
       "created_at": "2026-11-20T00:44:10Z",
       "updated_at": "2026-11-20T00:44:11Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-x86_64-pc-windows-msvc.exe.zst"
@@ -2551,7 +2551,7 @@
       "state": "uploaded",
       "size": 8509,
       "digest": "sha256:f5f6a0b4eafc76b7d912e7bcaf6a5629d0bc79c222d51e34731bf3ca1cfabcda",
-      "download_count": 57,
+      "download_count": 76,
       "created_at": "2026-11-20T00:44:33Z",
       "updated_at": "2026-11-20T00:44:33Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-x86_64-unknown-linux-musl.sigstore"
@@ -2587,7 +2587,7 @@
       "state": "uploaded",
       "size": 27435775,
       "digest": "sha256:d78619030c1b8d0a4d9c9c67667c1bfa23ad9d9edc63d87ffeaa86796f3d868c",
-      "download_count": 1570,
+      "download_count": 2659,
       "created_at": "2026-11-20T00:44:34Z",
       "updated_at": "2026-11-20T00:44:35Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-x86_64-unknown-linux-musl.tar.gz"
@@ -2623,7 +2623,7 @@
       "state": "uploaded",
       "size": 20814944,
       "digest": "sha256:8db4b4899dd36d24defa4a0c4f431e9db527fb689e017c88be9f54ea2949e674",
-      "download_count": 30,
+      "download_count": 51,
       "created_at": "2026-11-20T00:44:34Z",
       "updated_at": "2026-11-20T00:44:35Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-code-mode-host-x86_64-unknown-linux-musl.zst"
@@ -2659,7 +2659,7 @@
       "state": "uploaded",
       "size": 1340,
       "digest": "sha256:e8aef3755eeac6cb093f818a595473f4eaf648c8e2131457a42e016981e9b399",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-11-20T00:46:50Z",
       "updated_at": "2026-11-20T00:46:50Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner"
@@ -2695,7 +2695,7 @@
       "state": "uploaded",
       "size": 7937840,
       "digest": "sha256:d219e1797cac113f15692931569ba6b8ba0e25af9fc6eade25a909a4d597120f",
-      "download_count": 19,
+      "download_count": 31,
       "created_at": "2026-11-20T00:42:54Z",
       "updated_at": "2026-11-20T00:42:55Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-aarch64-pc-windows-msvc.exe"
@@ -2731,7 +2731,7 @@
       "state": "uploaded",
       "size": 2988922,
       "digest": "sha256:bad872fbd5c917f52f88b9eea8c9e4867a8477bc1477bf7e02b5bee9a47fc531",
-      "download_count": 16,
+      "download_count": 24,
       "created_at": "2026-11-20T00:42:54Z",
       "updated_at": "2026-11-20T00:42:55Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -2767,7 +2767,7 @@
       "state": "uploaded",
       "size": 2901394,
       "digest": "sha256:8ea44896b6bde5e0e0f7f177f773bf7d21d006f7dfe61a15aae66129ca9fe215",
-      "download_count": 17,
+      "download_count": 24,
       "created_at": "2026-11-20T00:42:55Z",
       "updated_at": "2026-11-20T00:42:56Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zip"
@@ -2803,7 +2803,7 @@
       "state": "uploaded",
       "size": 2324561,
       "digest": "sha256:488aac1a776103f155873764acb04876c6bb4270771a413f4e0877eb01dda223",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-20T00:42:55Z",
       "updated_at": "2026-11-20T00:42:56Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-aarch64-pc-windows-msvc.exe.zst"
@@ -2839,7 +2839,7 @@
       "state": "uploaded",
       "size": 8862000,
       "digest": "sha256:17d1294209288eb5351d17ed0e1ea5934aa0c6763ced275ed200521ca4fa7050",
-      "download_count": 58,
+      "download_count": 91,
       "created_at": "2026-11-20T00:44:10Z",
       "updated_at": "2026-11-20T00:44:11Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-x86_64-pc-windows-msvc.exe"
@@ -2875,7 +2875,7 @@
       "state": "uploaded",
       "size": 3295111,
       "digest": "sha256:0ca809e18aa2bff9a803498acfd21e11b462f5488f959746bac453d870b5c431",
-      "download_count": 52,
+      "download_count": 73,
       "created_at": "2026-11-20T00:44:10Z",
       "updated_at": "2026-11-20T00:44:11Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -2911,7 +2911,7 @@
       "state": "uploaded",
       "size": 3197641,
       "digest": "sha256:a14138d5dad34fe033e9e1bd2db977731490282d0f14150c8938be7c9d882316",
-      "download_count": 51,
+      "download_count": 74,
       "created_at": "2026-11-20T00:44:11Z",
       "updated_at": "2026-11-20T00:44:12Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-x86_64-pc-windows-msvc.exe.zip"
@@ -2947,7 +2947,7 @@
       "state": "uploaded",
       "size": 2591255,
       "digest": "sha256:7f7a7ed335d474890dbd824a5e82d001c4d03d51fc67026855577d5fd52de2dd",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-11-20T00:44:11Z",
       "updated_at": "2026-11-20T00:44:12Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-command-runner-x86_64-pc-windows-msvc.exe.zst"
@@ -2983,7 +2983,7 @@
       "state": "uploaded",
       "size": 23705053,
       "digest": "sha256:6309afef22cac4c8e69b82073677a28c96d4494d056c8ae732a85491e2635f61",
-      "download_count": 25,
+      "download_count": 37,
       "created_at": "2026-11-20T00:42:32Z",
       "updated_at": "2026-11-20T00:42:33Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-aarch64-apple-darwin.tar.gz"
@@ -3019,7 +3019,7 @@
       "state": "uploaded",
       "size": 16703981,
       "digest": "sha256:8febcd8a4e2dc9fc610dfef97f715a25c8f8be129aab65bd0732d73d7c3c4210",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-20T00:42:33Z",
       "updated_at": "2026-11-20T00:42:34Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-aarch64-apple-darwin.zst"
@@ -3055,7 +3055,7 @@
       "state": "uploaded",
       "size": 71846192,
       "digest": "sha256:6b5cc300d4c65d3948efe54cbfd587c2478e3e902039c7bf0c10253866a88999",
-      "download_count": 16,
+      "download_count": 23,
       "created_at": "2026-11-20T00:42:56Z",
       "updated_at": "2026-11-20T00:42:58Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-aarch64-pc-windows-msvc.exe"
@@ -3091,7 +3091,7 @@
       "state": "uploaded",
       "size": 25667967,
       "digest": "sha256:3f7a1d5c498da32a645fe62a84fe73f28b7282ef9b3768e57c0ecc3497b56fea",
-      "download_count": 13,
+      "download_count": 20,
       "created_at": "2026-11-20T00:42:56Z",
       "updated_at": "2026-11-20T00:42:57Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -3127,7 +3127,7 @@
       "state": "uploaded",
       "size": 25012329,
       "digest": "sha256:d313a429403f1a33225c711c558438b523532f6afb92f29e7bbd074daf109697",
-      "download_count": 16,
+      "download_count": 23,
       "created_at": "2026-11-20T00:42:56Z",
       "updated_at": "2026-11-20T00:42:57Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-aarch64-pc-windows-msvc.exe.zip"
@@ -3163,7 +3163,7 @@
       "state": "uploaded",
       "size": 18768660,
       "digest": "sha256:eb17baa50d598796f6293b23345820ed2999429a4b0f26028a190d2ccf011041",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-20T00:42:56Z",
       "updated_at": "2026-11-20T00:42:57Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-aarch64-pc-windows-msvc.exe.zst"
@@ -3199,7 +3199,7 @@
       "state": "uploaded",
       "size": 8509,
       "digest": "sha256:3dc26328b76dc32b833cdf5cecba3fb05bc5eb02d70d6d8f5bbe27ad78e1dc10",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-11-20T00:43:12Z",
       "updated_at": "2026-11-20T00:43:12Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-aarch64-unknown-linux-musl.sigstore"
@@ -3235,7 +3235,7 @@
       "state": "uploaded",
       "size": 28557711,
       "digest": "sha256:6ef061daba93551f4936dc5c29ad6dd9cc3c1c5a084acddc96442bb4c32bb2ed",
-      "download_count": 17,
+      "download_count": 34,
       "created_at": "2026-11-20T00:43:12Z",
       "updated_at": "2026-11-20T00:43:14Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-aarch64-unknown-linux-musl.tar.gz"
@@ -3271,7 +3271,7 @@
       "state": "uploaded",
       "size": 20679385,
       "digest": "sha256:439fa81b5b5e1baf0f1f29cea892a71a1c69eee22229219407e01dfa6f00820f",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-11-20T00:43:13Z",
       "updated_at": "2026-11-20T00:43:14Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-aarch64-unknown-linux-musl.zst"
@@ -3307,7 +3307,7 @@
       "state": "uploaded",
       "size": 25960825,
       "digest": "sha256:dddc56b080e660f03bd53bb7d81aab32ce2d77e4b8153ce902d46fc14d0c29dc",
-      "download_count": 19,
+      "download_count": 25,
       "created_at": "2026-11-20T00:43:47Z",
       "updated_at": "2026-11-20T00:43:48Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-x86_64-apple-darwin.tar.gz"
@@ -3343,7 +3343,7 @@
       "state": "uploaded",
       "size": 18363597,
       "digest": "sha256:a00e143853fa2d65155372f5352bea787752859c7fb748bb80f3547f4c8d759e",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-20T00:43:48Z",
       "updated_at": "2026-11-20T00:43:50Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-x86_64-apple-darwin.zst"
@@ -3379,7 +3379,7 @@
       "state": "uploaded",
       "size": 84760880,
       "digest": "sha256:b7084b9a1630bda8e372a7c6f22766d0bd864f7f9067562320ecfd4f27d490e5",
-      "download_count": 29,
+      "download_count": 41,
       "created_at": "2026-11-20T00:44:11Z",
       "updated_at": "2026-11-20T00:44:14Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-x86_64-pc-windows-msvc.exe"
@@ -3415,7 +3415,7 @@
       "state": "uploaded",
       "size": 28133414,
       "digest": "sha256:b25e4b535978b2c61ccab1c786e86b0e497856bc9fd683ff56b37415f3c24f3b",
-      "download_count": 17,
+      "download_count": 24,
       "created_at": "2026-11-20T00:44:12Z",
       "updated_at": "2026-11-20T00:44:13Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -3451,7 +3451,7 @@
       "state": "uploaded",
       "size": 27299556,
       "digest": "sha256:2b5e4dbe6ee7d28eae84d398573934f48727fdff2b80acb6065d4961c6420985",
-      "download_count": 29,
+      "download_count": 39,
       "created_at": "2026-11-20T00:44:12Z",
       "updated_at": "2026-11-20T00:44:13Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-x86_64-pc-windows-msvc.exe.zip"
@@ -3487,7 +3487,7 @@
       "state": "uploaded",
       "size": 20419168,
       "digest": "sha256:e20c6e6e019b334ceb301e2d401e24bb56f7cea775b4dd6b18cb28a29abbe46e",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-20T00:44:13Z",
       "updated_at": "2026-11-20T00:44:14Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-x86_64-pc-windows-msvc.exe.zst"
@@ -3523,7 +3523,7 @@
       "state": "uploaded",
       "size": 8509,
       "digest": "sha256:f9e7f08f93469e97f1baa7cab74550a72d522b0f485a3b4b7fbe241206169d61",
-      "download_count": 11,
+      "download_count": 16,
       "created_at": "2026-11-20T00:44:34Z",
       "updated_at": "2026-11-20T00:44:34Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-x86_64-unknown-linux-musl.sigstore"
@@ -3559,7 +3559,7 @@
       "state": "uploaded",
       "size": 28516629,
       "digest": "sha256:0abfa169685e083fcfe49e2e0dcb75a153126f372070b31b991384f52e4bf40c",
-      "download_count": 48,
+      "download_count": 89,
       "created_at": "2026-11-20T00:44:34Z",
       "updated_at": "2026-11-20T00:44:36Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-x86_64-unknown-linux-musl.tar.gz"
@@ -3595,7 +3595,7 @@
       "state": "uploaded",
       "size": 20669186,
       "digest": "sha256:059cc2957bbecd41481d557b18ee3a393266c4e049f7218d80a895eb9313558d",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-11-20T00:44:35Z",
       "updated_at": "2026-11-20T00:44:35Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-exec-server-x86_64-unknown-linux-musl.zst"
@@ -3631,7 +3631,7 @@
       "state": "uploaded",
       "size": 4897,
       "digest": "sha256:5cbb7da9a9b628fb560ee9249f33a5149c983da6aa05e5aaf1155b2c56b4f0ea",
-      "download_count": 50,
+      "download_count": 66,
       "created_at": "2026-11-20T00:43:19Z",
       "updated_at": "2026-11-20T00:43:19Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-npm-0.171.0.tgz"
@@ -3667,7 +3667,7 @@
       "state": "uploaded",
       "size": 157740951,
       "digest": "sha256:185e1c789e5fd528390c1a89a6968dca791e9aa3138db830d53afffdc9079ae3",
-      "download_count": 130,
+      "download_count": 191,
       "created_at": "2026-11-20T00:43:19Z",
       "updated_at": "2026-11-20T00:43:26Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-npm-darwin-arm64-0.171.0.tgz"
@@ -3703,7 +3703,7 @@
       "state": "uploaded",
       "size": 167908356,
       "digest": "sha256:05f9cf2fb4a88938df609759b73d8d649d5318a2088e78575888d480d63dd5f0",
-      "download_count": 50,
+      "download_count": 64,
       "created_at": "2026-11-20T00:43:19Z",
       "updated_at": "2026-11-20T00:43:24Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-npm-darwin-x64-0.171.0.tgz"
@@ -3739,7 +3739,7 @@
       "state": "uploaded",
       "size": 176542339,
       "digest": "sha256:26ae27788c7d962ae64321aba4673f918b99b40c4655246930bf962fa5b81b01",
-      "download_count": 75,
+      "download_count": 147,
       "created_at": "2026-11-20T00:43:19Z",
       "updated_at": "2026-11-20T00:43:25Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-npm-linux-arm64-0.171.0.tgz"
@@ -3775,7 +3775,7 @@
       "state": "uploaded",
       "size": 172033439,
       "digest": "sha256:e13d67afb0533cc6160b5f4140e4ad07e2acd87adbaa081bbf69b82e90cf4e55",
-      "download_count": 791,
+      "download_count": 1235,
       "created_at": "2026-11-20T00:43:19Z",
       "updated_at": "2026-11-20T00:43:26Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-npm-linux-x64-0.171.0.tgz"
@@ -3811,7 +3811,7 @@
       "state": "uploaded",
       "size": 180594394,
       "digest": "sha256:f2ad5ad932b7f738c720568419d1e61587de58b95bca0984fc5ed049b2dda1f0",
-      "download_count": 17,
+      "download_count": 24,
       "created_at": "2026-11-20T00:43:25Z",
       "updated_at": "2026-11-20T00:43:31Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-npm-win32-arm64-0.171.0.tgz"
@@ -3847,7 +3847,7 @@
       "state": "uploaded",
       "size": 193373309,
       "digest": "sha256:a58fc449075317821ac2895cd9b525af9c77c14585fe4e4f9bb5c18b475eaf99",
-      "download_count": 67,
+      "download_count": 95,
       "created_at": "2026-11-20T00:43:25Z",
       "updated_at": "2026-11-20T00:43:31Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-npm-win32-x64-0.171.0.tgz"
@@ -3883,7 +3883,7 @@
       "state": "uploaded",
       "size": 176190739,
       "digest": "sha256:58c88032ec446e72922d911d8f03773102da20c16a6059cf21f6744bce57f210",
-      "download_count": 68345,
+      "download_count": 103895,
       "created_at": "2026-11-20T00:42:34Z",
       "updated_at": "2026-11-20T00:42:39Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-aarch64-apple-darwin.tar.gz"
@@ -3919,7 +3919,7 @@
       "state": "uploaded",
       "size": 126894818,
       "digest": "sha256:cc63590fcbb97f9fe95d2f10aa8708ce567835844d3a0a37e87d17e007d7aca0",
-      "download_count": 115,
+      "download_count": 210,
       "created_at": "2026-11-20T00:42:34Z",
       "updated_at": "2026-11-20T00:42:38Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-aarch64-apple-darwin.tar.zst"
@@ -3955,7 +3955,7 @@
       "state": "uploaded",
       "size": 198311042,
       "digest": "sha256:9715d5b310d05b0d878725763362b837857f5eb90fbe4ac57997f5e8656dc178",
-      "download_count": 112,
+      "download_count": 164,
       "created_at": "2026-11-20T00:42:57Z",
       "updated_at": "2026-11-20T00:43:03Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-aarch64-pc-windows-msvc.tar.gz"
@@ -3991,7 +3991,7 @@
       "state": "uploaded",
       "size": 148913536,
       "digest": "sha256:f7634973e787a027e8503d2bc9a17c1635c7c9dff21bdd64e51bcfce7de20b68",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-11-20T00:42:57Z",
       "updated_at": "2026-11-20T00:43:02Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-aarch64-pc-windows-msvc.tar.zst"
@@ -4027,7 +4027,7 @@
       "state": "uploaded",
       "size": 199315347,
       "digest": "sha256:d8c43bee6cf11b01eb18b95f4d7961092bc40228180808859e70dabb7784c1c9",
-      "download_count": 6011,
+      "download_count": 8792,
       "created_at": "2026-11-20T00:43:13Z",
       "updated_at": "2026-11-20T00:43:25Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-aarch64-unknown-linux-musl.tar.gz"
@@ -4063,7 +4063,7 @@
       "state": "uploaded",
       "size": 8489,
       "digest": "sha256:ad7a3d4d1703a6c664c222d77c462a3932072bba5dfced64677d148cbbe640ff",
-      "download_count": 32,
+      "download_count": 70,
       "created_at": "2026-11-20T00:43:14Z",
       "updated_at": "2026-11-20T00:43:14Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-aarch64-unknown-linux-musl.tar.gz.sigstore"
@@ -4099,7 +4099,7 @@
       "state": "uploaded",
       "size": 145058982,
       "digest": "sha256:3325411b2305c484442b234d29465a6ce3bf3ebd270f11a020bc6ac0e1e3874a",
-      "download_count": 245,
+      "download_count": 365,
       "created_at": "2026-11-20T00:43:14Z",
       "updated_at": "2026-11-20T00:43:18Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-aarch64-unknown-linux-musl.tar.zst"
@@ -4135,7 +4135,7 @@
       "state": "uploaded",
       "size": 8509,
       "digest": "sha256:1bc80a732bfe012799ec743f19ba0f4d0a24f7982e2871da2930d4eb2f2d43f1",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-11-20T00:43:14Z",
       "updated_at": "2026-11-20T00:43:14Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-aarch64-unknown-linux-musl.tar.zst.sigstore"
@@ -4171,7 +4171,7 @@
       "state": "uploaded",
       "size": 191311520,
       "digest": "sha256:dd130ea3217b4e6fe4454c99949e0b28e2e8a9ad8da8c3a75f0c7265fab7153b",
-      "download_count": 5971,
+      "download_count": 7961,
       "created_at": "2026-11-20T00:43:48Z",
       "updated_at": "2026-11-20T00:43:54Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-x86_64-apple-darwin.tar.gz"
@@ -4207,7 +4207,7 @@
       "state": "uploaded",
       "size": 138904614,
       "digest": "sha256:4fcdd0c269dbb5d4b4df25181285066bf622ff185fa86f4608ac4ad2a4efb740",
-      "download_count": 16,
+      "download_count": 20,
       "created_at": "2026-11-20T00:43:49Z",
       "updated_at": "2026-11-20T00:43:54Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-x86_64-apple-darwin.tar.zst"
@@ -4243,7 +4243,7 @@
       "state": "uploaded",
       "size": 214982795,
       "digest": "sha256:669941eff23dd8470fbf85d919a03d80c4e3d35b441e3fcd361c0f8630945be8",
-      "download_count": 22424,
+      "download_count": 31055,
       "created_at": "2026-11-20T00:44:14Z",
       "updated_at": "2026-11-20T00:44:23Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-x86_64-pc-windows-msvc.tar.gz"
@@ -4279,7 +4279,7 @@
       "state": "uploaded",
       "size": 160926636,
       "digest": "sha256:734e66496f16e30414408caf06713fd9d4f30a21d25bd0057719b49e10c653de",
-      "download_count": 127,
+      "download_count": 182,
       "created_at": "2026-11-20T00:44:14Z",
       "updated_at": "2026-11-20T00:44:19Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-x86_64-pc-windows-msvc.tar.zst"
@@ -4315,7 +4315,7 @@
       "state": "uploaded",
       "size": 197763180,
       "digest": "sha256:8391d67757496bfd14893eca6cbf0c96994bf2627566ff1f018f70600c9ef6b3",
-      "download_count": 57271,
+      "download_count": 88683,
       "created_at": "2026-11-20T00:44:35Z",
       "updated_at": "2026-11-20T00:44:41Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-x86_64-unknown-linux-musl.tar.gz"
@@ -4351,7 +4351,7 @@
       "state": "uploaded",
       "size": 8489,
       "digest": "sha256:85435b47ad50925aa4b2b4c710118eb9d13017132b1de033eeb1f4859bf23b1a",
-      "download_count": 312,
+      "download_count": 445,
       "created_at": "2026-11-20T00:44:35Z",
       "updated_at": "2026-11-20T00:44:35Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-x86_64-unknown-linux-musl.tar.gz.sigstore"
@@ -4387,7 +4387,7 @@
       "state": "uploaded",
       "size": 145729122,
       "digest": "sha256:867e0f638a03bbbf922e1f77abd70d22e283e2a53f93281fca009ac8d0dee4e0",
-      "download_count": 644,
+      "download_count": 1010,
       "created_at": "2026-11-20T00:44:36Z",
       "updated_at": "2026-11-20T00:44:40Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-x86_64-unknown-linux-musl.tar.zst"
@@ -4423,7 +4423,7 @@
       "state": "uploaded",
       "size": 8489,
       "digest": "sha256:50ec13cfe29a601068ab56ddebe44a58089f0051742e1fd7b7357634a4ea7e41",
-      "download_count": 17,
+      "download_count": 22,
       "created_at": "2026-11-20T00:44:36Z",
       "updated_at": "2026-11-20T00:44:36Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package-x86_64-unknown-linux-musl.tar.zst.sigstore"
@@ -4459,7 +4459,7 @@
       "state": "uploaded",
       "size": 1631,
       "digest": "sha256:0161f93375b71a72f6fdb5c65f385578fc94462d390aecec0ed049aec10c77bf",
-      "download_count": 100088,
+      "download_count": 157745,
       "created_at": "2026-11-20T00:43:18Z",
       "updated_at": "2026-11-20T00:43:18Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-package_SHA256SUMS"
@@ -4495,7 +4495,7 @@
       "state": "uploaded",
       "size": 1317,
       "digest": "sha256:fdbd87047bcf79453368ca2c262446a39ec2418953762ca535461c23acbdb56c",
-      "download_count": 10,
+      "download_count": 16,
       "created_at": "2026-11-20T00:47:14Z",
       "updated_at": "2026-11-20T00:47:14Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-provisioned"
@@ -4531,7 +4531,7 @@
       "state": "uploaded",
       "size": 176192855,
       "digest": "sha256:dbc3ea1053ddf6392a7f69574e1b8c3f8e178ed78a09e0576939028d061e653b",
-      "download_count": 20,
+      "download_count": 27,
       "created_at": "2026-11-20T00:43:26Z",
       "updated_at": "2026-11-20T00:43:33Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-provisioned-package-aarch64-apple-darwin.tar.gz"
@@ -4567,7 +4567,7 @@
       "state": "uploaded",
       "size": 191316205,
       "digest": "sha256:78b02e6fd094079bb11731b3eef91b3b4d3257d613ffcd6998075397b5bb0821",
-      "download_count": 16,
+      "download_count": 22,
       "created_at": "2026-11-20T00:43:27Z",
       "updated_at": "2026-11-20T00:43:33Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-provisioned-package-x86_64-apple-darwin.tar.gz"
@@ -4603,7 +4603,7 @@
       "state": "uploaded",
       "size": 3893,
       "digest": "sha256:c771ab09b13513f1f3eba7ab913fd2e46289527da4111d8f9fdc641aa65e07f5",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-11-20T00:46:44Z",
       "updated_at": "2026-11-20T00:46:45Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy"
@@ -4639,7 +4639,7 @@
       "state": "uploaded",
       "size": 3752298,
       "digest": "sha256:440482dc72520fb855fa3ba10e2ceeb3c73f2cc0d68a083498076a403079d222",
-      "download_count": 18,
+      "download_count": 25,
       "created_at": "2026-11-20T00:42:35Z",
       "updated_at": "2026-11-20T00:42:35Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-apple-darwin.tar.gz"
@@ -4675,7 +4675,7 @@
       "state": "uploaded",
       "size": 2741294,
       "digest": "sha256:9097f9a1805a400e6700ca3ce42e5746b899543746add2b12b87ab5f8b97b55a",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-11-20T00:42:35Z",
       "updated_at": "2026-11-20T00:42:36Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-apple-darwin.zst"
@@ -4711,7 +4711,7 @@
       "state": "uploaded",
       "size": 8714544,
       "digest": "sha256:96c29dda68cc1121e017b4fcd51f207b4bc2f2e71c454d248e3232ab887393e2",
-      "download_count": 15,
+      "download_count": 21,
       "created_at": "2026-11-20T00:42:58Z",
       "updated_at": "2026-11-20T00:42:58Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe"
@@ -4747,7 +4747,7 @@
       "state": "uploaded",
       "size": 4044691,
       "digest": "sha256:caa15cd4059ddd0e4bad21b786d53acfd118a5be2ebb302c55c11fec1f0e7b84",
-      "download_count": 14,
+      "download_count": 20,
       "created_at": "2026-11-20T00:42:58Z",
       "updated_at": "2026-11-20T00:42:59Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -4783,7 +4783,7 @@
       "state": "uploaded",
       "size": 3944309,
       "digest": "sha256:76c30dabdbe639a07b6ee491bc52425210ec3a3935fc5afef0208d3e8c041d09",
-      "download_count": 15,
+      "download_count": 21,
       "created_at": "2026-11-20T00:42:59Z",
       "updated_at": "2026-11-20T00:42:59Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zip"
@@ -4819,7 +4819,7 @@
       "state": "uploaded",
       "size": 3157793,
       "digest": "sha256:319e4cea7cef78d40c6d9d939adc85c553912548a839c60a70ce5c7028fd104d",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-11-20T00:42:59Z",
       "updated_at": "2026-11-20T00:43:00Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-pc-windows-msvc.exe.zst"
@@ -4855,7 +4855,7 @@
       "state": "uploaded",
       "size": 8509,
       "digest": "sha256:840f37a1a160421380e36af663b27520a24ee1400575244457eba1ccef222ca2",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-11-20T00:43:14Z",
       "updated_at": "2026-11-20T00:43:15Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-unknown-linux-musl.sigstore"
@@ -4891,7 +4891,7 @@
       "state": "uploaded",
       "size": 6373078,
       "digest": "sha256:f2898f15cbfa1f97d467c27ba95a858eacc8e7e0cc4653715b09da57f3b0e8c9",
-      "download_count": 18,
+      "download_count": 26,
       "created_at": "2026-11-20T00:43:15Z",
       "updated_at": "2026-11-20T00:43:15Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-unknown-linux-musl.tar.gz"
@@ -4927,7 +4927,7 @@
       "state": "uploaded",
       "size": 5072987,
       "digest": "sha256:3907cb10e50a29dd0e6001d7f596a88dd7a2bfdbc0a463cd812b7c5c2af4c29d",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-20T00:43:15Z",
       "updated_at": "2026-11-20T00:43:16Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-aarch64-unknown-linux-musl.zst"
@@ -4963,7 +4963,7 @@
       "state": "uploaded",
       "size": 29594778,
       "digest": "sha256:f49b6e1e8ce5ae679e29a553160740c1cd8619a44653c9eebae95ddab40c432b",
-      "download_count": 17,
+      "download_count": 23,
       "created_at": "2026-11-20T00:43:26Z",
       "updated_at": "2026-11-20T00:43:27Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-npm-0.171.0.tgz"
@@ -4999,7 +4999,7 @@
       "state": "uploaded",
       "size": 4119891,
       "digest": "sha256:8d3b8cb493b5acc824c474fe9d1719a81ae38ee97f1a4b06499eeb7143c42e90",
-      "download_count": 16,
+      "download_count": 22,
       "created_at": "2026-11-20T00:43:51Z",
       "updated_at": "2026-11-20T00:43:51Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-x86_64-apple-darwin.tar.gz"
@@ -5035,7 +5035,7 @@
       "state": "uploaded",
       "size": 3007946,
       "digest": "sha256:6f0b5e7b842ac2d3d9f3508271ad0f2925be8b0cb7fa5943e4d0aaab00a581c3",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-11-20T00:43:51Z",
       "updated_at": "2026-11-20T00:43:52Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-x86_64-apple-darwin.zst"
@@ -5071,7 +5071,7 @@
       "state": "uploaded",
       "size": 9740080,
       "digest": "sha256:2ab5b02c9b145a8b61fb2aa3ccbe5775e2c812d5c9e6e6a7e033d79e7eae80db",
-      "download_count": 23,
+      "download_count": 39,
       "created_at": "2026-11-20T00:44:15Z",
       "updated_at": "2026-11-20T00:44:15Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe"
@@ -5107,7 +5107,7 @@
       "state": "uploaded",
       "size": 4269146,
       "digest": "sha256:dc1ce7f1db2bbb7882c0ca5e3c921179f189e047b14b8e6cbc74b5b825a76201",
-      "download_count": 15,
+      "download_count": 21,
       "created_at": "2026-11-20T00:44:15Z",
       "updated_at": "2026-11-20T00:44:15Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -5143,7 +5143,7 @@
       "state": "uploaded",
       "size": 4155277,
       "digest": "sha256:3c6c91ec34bfa3ab43d8b3753741a1eacb3d3cde0181c1d3cddecad84b70253c",
-      "download_count": 27,
+      "download_count": 33,
       "created_at": "2026-11-20T00:44:15Z",
       "updated_at": "2026-11-20T00:44:16Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zip"
@@ -5179,7 +5179,7 @@
       "state": "uploaded",
       "size": 3341085,
       "digest": "sha256:62cdc5606db0048d2eb1eb20a761d633345d2d9e0b9061cd76a40ef51a2e9c86",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-20T00:44:16Z",
       "updated_at": "2026-11-20T00:44:16Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-x86_64-pc-windows-msvc.exe.zst"
@@ -5215,7 +5215,7 @@
       "state": "uploaded",
       "size": 8489,
       "digest": "sha256:03261172dfe32b9a2552a99dce3d0281370d16053489135d99b2595084503869",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-20T00:44:36Z",
       "updated_at": "2026-11-20T00:44:37Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-x86_64-unknown-linux-musl.sigstore"
@@ -5251,7 +5251,7 @@
       "state": "uploaded",
       "size": 6292845,
       "digest": "sha256:f165b756ab57261390eb0a2a5c800bd38556b5938e37dffe3d0d1a9df40eb453",
-      "download_count": 26,
+      "download_count": 36,
       "created_at": "2026-11-20T00:44:37Z",
       "updated_at": "2026-11-20T00:44:37Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-x86_64-unknown-linux-musl.tar.gz"
@@ -5287,7 +5287,7 @@
       "state": "uploaded",
       "size": 4687716,
       "digest": "sha256:68f25d276def3139804b1631f8cd37f04a282fe10bd8ea1231e8e9679f1950a7",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-11-20T00:44:37Z",
       "updated_at": "2026-11-20T00:44:38Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-responses-api-proxy-x86_64-unknown-linux-musl.zst"
@@ -5323,7 +5323,7 @@
       "state": "uploaded",
       "size": 21407,
       "digest": "sha256:0bb74249a2f97e70d629415c74a425d8ed7eae42c599ee2f0e0499d3cf76909c",
-      "download_count": 27,
+      "download_count": 33,
       "created_at": "2026-11-20T00:43:26Z",
       "updated_at": "2026-11-20T00:43:26Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-sdk-npm-0.171.0.tgz"
@@ -5359,7 +5359,7 @@
       "state": "uploaded",
       "size": 406753857,
       "digest": "sha256:39dd14d59f3c5afc11987a4f62fc5d73f679294dd0b257115c578b150254fa06",
-      "download_count": 18,
+      "download_count": 24,
       "created_at": "2026-11-20T00:42:22Z",
       "updated_at": "2026-11-20T00:42:35Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-aarch64-apple-darwin-app-server.tar.gz"
@@ -5395,7 +5395,7 @@
       "state": "uploaded",
       "size": 503546079,
       "digest": "sha256:14f8263f78274813e06fed482294b55ce6d3ee90198f927b999ae29f21b0c4ae",
-      "download_count": 16,
+      "download_count": 22,
       "created_at": "2026-11-20T00:42:24Z",
       "updated_at": "2026-11-20T00:42:40Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-aarch64-apple-darwin.tar.gz"
@@ -5431,7 +5431,7 @@
       "state": "uploaded",
       "size": 769741611,
       "digest": "sha256:1115ad4a93088346b98dfb9c59b80fe1f51f1dbf7a8accc70732f4d9fc3f0194",
-      "download_count": 14,
+      "download_count": 20,
       "created_at": "2026-11-20T00:42:35Z",
       "updated_at": "2026-11-20T00:43:00Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-aarch64-pc-windows-msvc.tar.gz"
@@ -5467,7 +5467,7 @@
       "state": "uploaded",
       "size": 332950273,
       "digest": "sha256:cb3d868786a3cf3e9836ce6538916e1457c64977d42940c158e9cdd701276b49",
-      "download_count": 13,
+      "download_count": 19,
       "created_at": "2026-11-20T00:43:03Z",
       "updated_at": "2026-11-20T00:43:11Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-aarch64-unknown-linux-musl-app-server.tar.gz"
@@ -5503,7 +5503,7 @@
       "state": "uploaded",
       "size": 410718927,
       "digest": "sha256:331775b240bcb8118fe6c836a7853a07b52010a7d4c7a3027fde72f8d2371b81",
-      "download_count": 14,
+      "download_count": 21,
       "created_at": "2026-11-20T00:43:07Z",
       "updated_at": "2026-11-20T00:43:19Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-aarch64-unknown-linux-musl.tar.gz"
@@ -5539,7 +5539,7 @@
       "state": "uploaded",
       "size": 414574367,
       "digest": "sha256:63d70f5bfa1a3b3064a95b273c341d8a50e1703b278b0cbc4d9db9f6f98bd9a5",
-      "download_count": 12,
+      "download_count": 18,
       "created_at": "2026-11-20T00:43:39Z",
       "updated_at": "2026-11-20T00:43:53Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-x86_64-apple-darwin-app-server.tar.gz"
@@ -5575,7 +5575,7 @@
       "state": "uploaded",
       "size": 513410892,
       "digest": "sha256:b25b5c57203224057c74679e85f3e924f3767a1956ec80d5999ab39beff4f8b4",
-      "download_count": 12,
+      "download_count": 18,
       "created_at": "2026-11-20T00:43:45Z",
       "updated_at": "2026-11-20T00:44:02Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-x86_64-apple-darwin.tar.gz"
@@ -5611,7 +5611,7 @@
       "state": "uploaded",
       "size": 792196827,
       "digest": "sha256:1609f466f683bf0ed20705e0045ce8942fb5565f6c487671144fa3be151f6f80",
-      "download_count": 17,
+      "download_count": 24,
       "created_at": "2026-11-20T00:43:55Z",
       "updated_at": "2026-11-20T00:44:14Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-x86_64-pc-windows-msvc.tar.gz"
@@ -5647,7 +5647,7 @@
       "state": "uploaded",
       "size": 315517150,
       "digest": "sha256:cdf5036385af7a4dc4e61381420c217e75d6e2e7de0ba2e8c9b206f9e03861b8",
-      "download_count": 14,
+      "download_count": 20,
       "created_at": "2026-11-20T00:44:23Z",
       "updated_at": "2026-11-20T00:44:33Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-x86_64-unknown-linux-musl-app-server.tar.gz"
@@ -5683,7 +5683,7 @@
       "state": "uploaded",
       "size": 390611741,
       "digest": "sha256:146e9e92de530b3eea3a161e8e69b6b7aec91ec846fabcb91d7ea32e4b6ddcd1",
-      "download_count": 37,
+      "download_count": 118,
       "created_at": "2026-11-20T00:44:31Z",
       "updated_at": "2026-11-20T00:44:45Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-symbols-x86_64-unknown-linux-musl.tar.gz"
@@ -5719,7 +5719,7 @@
       "state": "uploaded",
       "size": 1405,
       "digest": "sha256:4b1f0abcf0e74850a5c434b6a11ff1f3846fda7504271e990a8f8491489444ba",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-20T00:46:56Z",
       "updated_at": "2026-11-20T00:46:56Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-service"
@@ -5755,7 +5755,7 @@
       "state": "uploaded",
       "size": 52896048,
       "digest": "sha256:6771c29adeb3eacf23e5e7b850aa9dda873007174aa9d6243118989e3f684a7a",
-      "download_count": 14,
+      "download_count": 20,
       "created_at": "2026-11-20T00:43:00Z",
       "updated_at": "2026-11-20T00:43:01Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe"
@@ -5791,7 +5791,7 @@
       "state": "uploaded",
       "size": 18049545,
       "digest": "sha256:f71c2ee74827f8de797da8cf0b15cf39695ee90d74a30d601d86dabc1e29a5c6",
-      "download_count": 13,
+      "download_count": 19,
       "created_at": "2026-11-20T00:43:00Z",
       "updated_at": "2026-11-20T00:43:01Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -5827,7 +5827,7 @@
       "state": "uploaded",
       "size": 17606585,
       "digest": "sha256:410612998c3fd44ce037418ef8d90aa39f9c25b72fc86235447edf0c274c98ba",
-      "download_count": 13,
+      "download_count": 19,
       "created_at": "2026-11-20T00:43:00Z",
       "updated_at": "2026-11-20T00:43:02Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zip"
@@ -5863,7 +5863,7 @@
       "state": "uploaded",
       "size": 13410877,
       "digest": "sha256:018fb5797c008caeebda8a5314629ad68bcadb2c4bd513232d01e77e9cbfd27f",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-20T00:43:02Z",
       "updated_at": "2026-11-20T00:43:02Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-service-aarch64-pc-windows-msvc.exe.zst"
@@ -5899,7 +5899,7 @@
       "state": "uploaded",
       "size": 62953264,
       "digest": "sha256:c4a7b82597759a56c5b37d10538167a2ac90f868cf6690afbfc59cf1f9ada1b0",
-      "download_count": 30,
+      "download_count": 44,
       "created_at": "2026-11-20T00:44:16Z",
       "updated_at": "2026-11-20T00:44:18Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe"
@@ -5935,7 +5935,7 @@
       "state": "uploaded",
       "size": 19916763,
       "digest": "sha256:8cd590e4f26eb034c600a957f1a9b6f8a361040475fb486b18f1a2fff86291bf",
-      "download_count": 22,
+      "download_count": 31,
       "created_at": "2026-11-20T00:44:17Z",
       "updated_at": "2026-11-20T00:44:18Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -5971,7 +5971,7 @@
       "state": "uploaded",
       "size": 19364413,
       "digest": "sha256:1da5e12a5cf7d396970a3fedc26102d5200d98897b7ab4f104e549f42d660367",
-      "download_count": 31,
+      "download_count": 45,
       "created_at": "2026-11-20T00:44:17Z",
       "updated_at": "2026-11-20T00:44:17Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zip"
@@ -6007,7 +6007,7 @@
       "state": "uploaded",
       "size": 14607858,
       "digest": "sha256:0b483bc5dee8bc175433ebb0724aecc284d32df0ac4aefcfeb0769ef2a71450f",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-20T00:44:18Z",
       "updated_at": "2026-11-20T00:44:19Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-service-x86_64-pc-windows-msvc.exe.zst"
@@ -6043,7 +6043,7 @@
       "state": "uploaded",
       "size": 1389,
       "digest": "sha256:098e8e10287d57f87988d9c9dd7dfb7492ef9f2a0ba6c26020cc60e8041fcb1f",
-      "download_count": 18,
+      "download_count": 26,
       "created_at": "2026-11-20T00:46:52Z",
       "updated_at": "2026-11-20T00:46:53Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-setup"
@@ -6079,7 +6079,7 @@
       "state": "uploaded",
       "size": 17676592,
       "digest": "sha256:138b896dac68a62da35b34208ee60bd9241551329c4f0928ffaabd7629019119",
-      "download_count": 18,
+      "download_count": 26,
       "created_at": "2026-11-20T00:43:02Z",
       "updated_at": "2026-11-20T00:43:03Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe"
@@ -6115,7 +6115,7 @@
       "state": "uploaded",
       "size": 7232005,
       "digest": "sha256:4eac5ec0656564551be3a40c4cb34a1dfe15adf2c2014d0e72d51220130aede4",
-      "download_count": 13,
+      "download_count": 20,
       "created_at": "2026-11-20T00:43:02Z",
       "updated_at": "2026-11-20T00:43:03Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.tar.gz"
@@ -6151,7 +6151,7 @@
       "state": "uploaded",
       "size": 7042140,
       "digest": "sha256:9eb8d00dd66115d9a84d52e70a19fab91bd4aeed77da0eaa0d28c8e30b0b3f23",
-      "download_count": 13,
+      "download_count": 19,
       "created_at": "2026-11-20T00:43:03Z",
       "updated_at": "2026-11-20T00:43:03Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zip"
@@ -6187,7 +6187,7 @@
       "state": "uploaded",
       "size": 5468891,
       "digest": "sha256:b1d78f0484bee2ea1db3a5a541e7a4c31aff8bc861f2884e8ffb0becc490c7c7",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-20T00:43:03Z",
       "updated_at": "2026-11-20T00:43:04Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-setup-aarch64-pc-windows-msvc.exe.zst"
@@ -6223,7 +6223,7 @@
       "state": "uploaded",
       "size": 19823408,
       "digest": "sha256:6d4c34d7aeda0f242e8183c92f25588e5a91286c2196f44a4405058d9c436587",
-      "download_count": 61,
+      "download_count": 99,
       "created_at": "2026-11-20T00:44:18Z",
       "updated_at": "2026-11-20T00:44:19Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe"
@@ -6259,7 +6259,7 @@
       "state": "uploaded",
       "size": 7722400,
       "digest": "sha256:2719748811f015067d9fa7c0541452d73b3a01560d7a4195ec0cd5993391587c",
-      "download_count": 49,
+      "download_count": 68,
       "created_at": "2026-11-20T00:44:19Z",
       "updated_at": "2026-11-20T00:44:19Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -6295,7 +6295,7 @@
       "state": "uploaded",
       "size": 7504267,
       "digest": "sha256:ae0746bb7745a9365cff7a171751678d32cdf4a10c88871ef793c9335b7ed2f6",
-      "download_count": 42,
+      "download_count": 63,
       "created_at": "2026-11-20T00:44:19Z",
       "updated_at": "2026-11-20T00:44:20Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zip"
@@ -6331,7 +6331,7 @@
       "state": "uploaded",
       "size": 5868597,
       "digest": "sha256:c8349f3cc4fd79b15667e4e7c3b31dc13460f4e89d89b4751d235484f9f222d1",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-11-20T00:44:19Z",
       "updated_at": "2026-11-20T00:44:20Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-windows-sandbox-setup-x86_64-pc-windows-msvc.exe.zst"
@@ -6367,7 +6367,7 @@
       "state": "uploaded",
       "size": 274669679,
       "digest": "sha256:cfda30e0c8a65f4b9fad82055cabc45e189bbc12e7dacc325115ce29ff0a7923",
-      "download_count": 295,
+      "download_count": 499,
       "created_at": "2026-11-20T00:43:52Z",
       "updated_at": "2026-11-20T00:44:02Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-apple-darwin.dmg"
@@ -6403,7 +6403,7 @@
       "state": "uploaded",
       "size": 127471146,
       "digest": "sha256:6f9b1144ffaa64aa12bf30f312405b266b84c433bae9f070be10245762c7aa44",
-      "download_count": 375,
+      "download_count": 593,
       "created_at": "2026-11-20T00:43:54Z",
       "updated_at": "2026-11-20T00:43:58Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-apple-darwin.tar.gz"
@@ -6439,7 +6439,7 @@
       "state": "uploaded",
       "size": 92037218,
       "digest": "sha256:25ad08c424d7ec7762368c1299c1dbb9827ca2803afc2938cdc0e7ccf347aeca",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-11-20T00:43:54Z",
       "updated_at": "2026-11-20T00:43:58Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-apple-darwin.zst"
@@ -6475,7 +6475,7 @@
       "state": "uploaded",
       "size": 407421232,
       "digest": "sha256:cefea4ffee1fff04983a99c0dda99944d8b380e891e740a28b32f4b815a6e0b7",
-      "download_count": 2117,
+      "download_count": 3305,
       "created_at": "2026-11-20T00:44:19Z",
       "updated_at": "2026-11-20T00:44:33Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-pc-windows-msvc.exe"
@@ -6511,7 +6511,7 @@
       "state": "uploaded",
       "size": 135280364,
       "digest": "sha256:4cfd8acd6dd74ccba36393c33b460907e907a8c19051e16a0d0a9783ae0246c5",
-      "download_count": 1014,
+      "download_count": 2661,
       "created_at": "2026-11-20T00:44:21Z",
       "updated_at": "2026-11-20T00:44:27Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-pc-windows-msvc.exe.tar.gz"
@@ -6547,7 +6547,7 @@
       "state": "uploaded",
       "size": 219513809,
       "digest": "sha256:3db356dcd1efdd946741fa7c543d772522777332a996322d325918d04ca01820",
-      "download_count": 5178,
+      "download_count": 9416,
       "created_at": "2026-11-20T00:44:21Z",
       "updated_at": "2026-11-20T00:44:27Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-pc-windows-msvc.exe.zip"
@@ -6583,7 +6583,7 @@
       "state": "uploaded",
       "size": 100444832,
       "digest": "sha256:8e1cb8d806e8adedc5e52362ef80864a9176ea3b3b80adb94a11260f14914ad6",
-      "download_count": 175,
+      "download_count": 240,
       "created_at": "2026-11-20T00:44:21Z",
       "updated_at": "2026-11-20T00:44:25Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-pc-windows-msvc.exe.zst"
@@ -6619,7 +6619,7 @@
       "state": "uploaded",
       "size": 8489,
       "digest": "sha256:43cee0d6fa165c0f5561f5e9000b3a9719da55dce8182b0be3850ab7142306ce",
-      "download_count": 139,
+      "download_count": 192,
       "created_at": "2026-11-20T00:44:38Z",
       "updated_at": "2026-11-20T00:44:38Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-unknown-linux-musl.sigstore"
@@ -6655,7 +6655,7 @@
       "state": "uploaded",
       "size": 122664925,
       "digest": "sha256:01baa2e47809f8597be5b2f8abd4e4dfe3fb5bcb6e504c2fbaaad97056c15e8d",
-      "download_count": 7610,
+      "download_count": 12877,
       "created_at": "2026-11-20T00:44:38Z",
       "updated_at": "2026-11-20T00:44:42Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-unknown-linux-musl.tar.gz"
@@ -6691,7 +6691,7 @@
       "state": "uploaded",
       "size": 90258539,
       "digest": "sha256:0fd9ae1125788932131a29e296c4fef9995fc4f0c2a2ef6161221786e45ffa8c",
-      "download_count": 277,
+      "download_count": 457,
       "created_at": "2026-11-20T00:44:39Z",
       "updated_at": "2026-11-20T00:44:41Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/codex-x86_64-unknown-linux-musl.zst"
@@ -6727,7 +6727,7 @@
       "state": "uploaded",
       "size": 280982,
       "digest": "sha256:025625b51c9c7f51f87d89c5b5ec8a47acb6e4fe90737b95880fc1b3f9e52fdd",
-      "download_count": 405,
+      "download_count": 519,
       "created_at": "2026-11-20T00:43:18Z",
       "updated_at": "2026-11-20T00:43:18Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/config-schema.json"
@@ -6763,7 +6763,7 @@
       "state": "uploaded",
       "size": 71048,
       "digest": "sha256:73e757c5067d2bcafa0d1b6df78b498f0a13d890be642c8dc2e3860b37e3d57b",
-      "download_count": 482,
+      "download_count": 756,
       "created_at": "2026-11-20T00:43:18Z",
       "updated_at": "2026-11-20T00:43:19Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/install.ps1"
@@ -6799,7 +6799,7 @@
       "state": "uploaded",
       "size": 43352,
       "digest": "sha256:b698d8eb50c0fbe0214ea57b5bf2af439054108404c6d2b872989db02f4bd574",
-      "download_count": 1136,
+      "download_count": 1579,
       "created_at": "2026-11-20T00:43:18Z",
       "updated_at": "2026-11-20T00:43:19Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/install.sh"
@@ -6835,7 +6835,7 @@
       "state": "uploaded",
       "size": 182561303,
       "digest": "sha256:aecdc29d775012e1c5adba4ea4fd298c48b746e2a9ea12b8ec462c4dd270a363",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-11-20T00:43:33Z",
       "updated_at": "2026-11-20T00:43:41Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/openai_codex_cli_bin-0.171.0-py3-none-macosx_10_9_x86_64.whl"
@@ -6871,7 +6871,7 @@
       "state": "uploaded",
       "size": 167932333,
       "digest": "sha256:43ee58195e6d00578c00aed0687b305984b884dcb10513228bebefa48a61792f",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-11-20T00:43:28Z",
       "updated_at": "2026-11-20T00:43:33Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/openai_codex_cli_bin-0.171.0-py3-none-macosx_11_0_arm64.whl"
@@ -6907,7 +6907,7 @@
       "state": "uploaded",
       "size": 182509687,
       "digest": "sha256:20fb1202c602d3c815049ff026577c1353533c78b5d31bd097ee6de7f49842cf",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-20T00:43:32Z",
       "updated_at": "2026-11-20T00:43:39Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/openai_codex_cli_bin-0.171.0-py3-none-manylinux_2_17_aarch64.whl"
@@ -6943,7 +6943,7 @@
       "state": "uploaded",
       "size": 180830678,
       "digest": "sha256:f7fd5179785cc26a7d9c56c914536e813e3d002e68a6d55da501338d78cc43f7",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-11-20T00:43:34Z",
       "updated_at": "2026-11-20T00:43:41Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/openai_codex_cli_bin-0.171.0-py3-none-manylinux_2_17_x86_64.whl"
@@ -6979,7 +6979,7 @@
       "state": "uploaded",
       "size": 206729720,
       "digest": "sha256:1e39d4236aede93a0c3f452a6c10a65f86b5f2c2fcbedbcce546e1f80b61729b",
-      "download_count": 27,
+      "download_count": 31,
       "created_at": "2026-11-20T00:43:34Z",
       "updated_at": "2026-11-20T00:43:42Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/openai_codex_cli_bin-0.171.0-py3-none-win_amd64.whl"
@@ -7015,7 +7015,7 @@
       "state": "uploaded",
       "size": 190700612,
       "digest": "sha256:c8425e85537feff62750faf1abf18754cb6bdad6f9e182f367c4c1734747d62b",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-11-20T00:43:32Z",
       "updated_at": "2026-11-20T00:43:40Z",
       "browser_download_url": "https://github.com/openai/codex/releases/download/rust-v0.171.0/openai_codex_cli_bin-0.171.0-py3-none-win_arm64.whl"
